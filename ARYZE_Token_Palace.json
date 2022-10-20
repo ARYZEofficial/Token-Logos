@@ -6,7 +6,6 @@
   "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
   "keywords": ["ARYZE", "default"],
   "tokens": [
-    // ARYZE
     {
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
       "chainId": 1,
@@ -31,8 +30,6 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
     },
-    //
-
     {
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
       "chainId": 1,
