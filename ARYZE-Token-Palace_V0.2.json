@@ -1,11 +1,27 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": { "major": 1, "minor": 0, "patch": 1 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
   "tokens": [
+        {
+      "address": "0x640BB7B0716a3c58B29f83a10e0B4B51580693d3",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
+      "name": "ARYZE RYZE",
+      "symbol": "RYZE"
+    },
+        {
+      "address": "0x640BB7B0716a3c58B29f83a10e0B4B51580693d3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
+      "name": "ARYZE RYZE",
+      "symbol": "RYZE"
+    },
     {
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
       "chainId": 1,
