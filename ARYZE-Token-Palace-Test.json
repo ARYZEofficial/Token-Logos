@@ -79,7 +79,7 @@
       "symbol": "eEUR"
     },
      {
-      "address": "0x3c6af76181891a6f0f438d4d0fC1474F0E8cA9A0",
+      "address": "0xaB77d4Eb4F6e7ac52dea9A859a36901564C6d02c",
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Squares/eUSD.png",
@@ -95,7 +95,7 @@
       "symbol": "eGBP"
     },
     {
-      "address": "0x3fA9eFFEa5Dfbf68d5Db48FAE322Fe892D3750fF",
+      "address": "0x3c6af76181891a6f0f438d4d0fC1474F0E8cA9A0",
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Squares/eEUR.png",
