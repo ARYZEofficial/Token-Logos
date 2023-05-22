@@ -56,7 +56,7 @@
     },
     {
       "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
-      "chainId": 137
+      "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Squares/eUSD.png",
       "name": "ARYZE eUSD",
