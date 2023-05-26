@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 1, "minor": 0, "patch": 3 },
+  "version": { "major": 1, "minor": 0, "patch": 4 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -150,6 +150,14 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg",
       "name": "Tether USD",
       "symbol": "USDT"
+    },
+      {
+      "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png",
+      "name": "PEPE",
+      "symbol": "PEPE"
     },
         {
       "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
