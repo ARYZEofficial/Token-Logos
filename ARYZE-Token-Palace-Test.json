@@ -1,11 +1,35 @@
 {
   "name": "ARYZE Token Palace Test",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 1, "minor": 0, "patch": 2 },
+  "version": { "major": 1, "minor": 0, "patch": 3 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
   "tokens": [
+         {
+      "address": "0x37cde3dd430fec1e2d4eb050431ec6135f6f7ea9",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
+      "name": "IJodi",
+      "symbol": "IJodi"
+    },
+         {
+      "address": "0x8faaa7F315C4bfBa3428e34813Db3ce5a61BF7Ad",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
+      "name": "IDima",
+      "symbol": "IDima"
+    },
+    {
+      "address": "0x4720Db7a9DE18C9addF769D542F241910aF86cb2",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
+      "name": "IIvan",
+      "symbol": "IIvan"
+    },
      {
       "address": "0x8528fe83df84DC89d3297738E8B759A1C98FCEf0",
       "chainId": 56,
@@ -14,7 +38,7 @@
       "name": "ManuelRYZESale",
       "symbol": "MRS"
     },
-       {
+    {
       "address": "0x57e96cd9bf18d41109027e625264c6a34e636276",
       "chainId": 97,
       "decimals": 18,
