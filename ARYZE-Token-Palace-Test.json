@@ -39,6 +39,14 @@
       "symbol": "MRS"
     },
     {
+      "address": "0xe5287e2265ef9b410261214357632457362d0aab",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
+      "name": "ManualRYZESale",
+      "symbol": "MRS"
+    },
+    {
       "address": "0x57e96cd9bf18d41109027e625264c6a34e636276",
       "chainId": 97,
       "decimals": 18,
