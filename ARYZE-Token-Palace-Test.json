@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace Test",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 1, "minor": 0, "patch": 3 },
+  "version": { "major": 1, "minor": 0, "patch": 4 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
