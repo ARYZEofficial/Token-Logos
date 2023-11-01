@@ -4,7 +4,7 @@
 "version": {
 "major": 1,
 "minor": 0,
-"patch": 0
+"patch": 1
 },
 "tags": {},
 "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -7278,7 +7278,7 @@
 "decimals": 6,
 "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
 "name": "USD Coin",
-"symbol": "USDC"
+"symbol": "USDC.e"
 },
 {
 "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
