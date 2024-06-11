@@ -285,7 +285,7 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
-    }
+    },
     {
       "address": "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
       "chainId": 59144,
@@ -293,7 +293,7 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD"
-    }
+    },
     {
       "address": "0xDFaA3212a43088c9727b4C5e8f37E79C23De9f6b",
       "chainId": 59144,
