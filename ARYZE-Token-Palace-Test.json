@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace Test",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 1, "minor": 1, "patch": 1},
+  "version": { "major": 1, "minor": 1, "patch": 2},
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -142,6 +142,14 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
     },
+     {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
+      "name": "WMATIC",
+      "symbol": "WMATIC"
+    },
     {
       "address": "0x3c6af76181891a6f0f438d4d0fC1474F0E8cA9A0",
       "chainId": 80001,
@@ -149,13 +157,7 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
-    }, 
-    {
-      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
-      "name": "WMATIC",
-      "symbol": "WMATIC"
     }
-  ]}
+  ]
+}
+
