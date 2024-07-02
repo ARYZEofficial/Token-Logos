@@ -157,7 +157,23 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
-    }
+    },
+     {
+      "address": "0xcb0527a58BEaEE9161Ccd914AA9b7d3A8c858F6C",
+      "chainId": 80002,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD"
+    },
+      {
+      "address": "0x9A6b170C51Eda14dd7f9DdA760E72A2E5DB40654",
+      "chainId": 80002,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR"
+    },
   ]
 }
 
