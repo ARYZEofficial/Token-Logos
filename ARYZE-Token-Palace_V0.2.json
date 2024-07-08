@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 2, "minor": 0, "patch": 13 },
+  "version": { "major": 2, "minor": 0, "patch": 14 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -278,7 +278,7 @@
       "name": "BTCB Token",
       "symbol": "BTCB"
     },
-      {
+    {
       "address": "0x6681E81647D64ee2c71c2804D327a9b20b436318",
       "chainId": 59144,
       "decimals": 18,
@@ -305,6 +305,38 @@
     {
       "address": "0xDFaA3212a43088c9727b4C5e8f37E79C23De9f6b",
       "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
+      "name": "ARYZE eSGD",
+      "symbol": "eSGD"
+    },
+    {
+      "address": "0x7378fd98083ef6d66d73c04a72ce6ff8a3b05eea",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR"
+    },
+    {
+      "address": "0xb7150937228c6d02ad32c27ce1aa01bde93a0cbd",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP"
+    },
+    {
+      "address": "0xa29c3072639f96ba797ec563820e4b0d7b08a574",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD"
+    },
+    {
+      "address": "0x77fd9a4b71f2f0dd4a8db4b12aeb2b283a09e50f",
+      "chainId": 81457,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
       "name": "ARYZE eSGD",
