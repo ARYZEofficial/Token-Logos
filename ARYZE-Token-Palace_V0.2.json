@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 2, "minor": 0, "patch": 14 },
+  "version": { "major": 2, "minor": 0, "patch": 15 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -346,7 +346,7 @@
       "address": "0x3a07dDF80CBB3b886d8e0370ddb47b75153F1c6D",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGOLD.png",
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD"
     }
