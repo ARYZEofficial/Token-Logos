@@ -341,6 +341,14 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
       "name": "ARYZE eSGD",
       "symbol": "eSGD"
+    },
+     {
+      "address": "0x3a07dDF80CBB3b886d8e0370ddb47b75153F1c6D",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
+      "name": "ARYZE eGOLD",
+      "symbol": "eGOLD"
     }
   ]
 }
