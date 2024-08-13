@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace Test",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 1, "minor": 1, "patch": 4 },
+  "version": { "major": 1, "minor": 1, "patch": 5 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -173,6 +173,14 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
+    },
+    {
+      "address": "0xD59D14E13aFe75F04eF0Be570f7416e30971CA32",
+      "chainId": 80002,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
+      "name": "ARYZE eEUR Permit",
+      "symbol": "eEUR Permit"
     }
   ]
 }
