@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace Test",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 1, "minor": 1, "patch": 6 },
+  "version": { "major": 1, "minor": 1, "patch": 7 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -178,7 +178,7 @@
       "address": "0xD59D14E13aFe75F04eF0Be570f7416e30971CA32",
       "chainId": 80002,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
       "name": "ARYZE USD6",
       "symbol": "USD6"
     },
@@ -186,7 +186,7 @@
       "address": "0xA0535c82a9934F6b6656D0e1F0c375f40B0f3c99",
       "chainId": 80002,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
       "name": "ARYZE USD18",
       "symbol": "USD18"
     }
