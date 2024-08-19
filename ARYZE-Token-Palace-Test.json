@@ -189,6 +189,22 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
       "name": "ARYZE USD18",
       "symbol": "USD18"
+    },
+    {
+      "address": "0x78f434F2D83137Bc7E952004Aced1790dE48Ec02",
+      "chainId": 97,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "ARYZE USD6",
+      "symbol": "USD6"
+    },
+    {
+      "address": "0xe79EeA17525687B27244085EF72bd013439Ebd34",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "ARYZE USD18",
+      "symbol": "USD18"
     }
   ]
 }
