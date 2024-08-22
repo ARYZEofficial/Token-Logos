@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace Test",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 1, "minor": 1, "patch": 8 },
+  "version": { "major": 1, "minor": 1, "patch": 9 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -205,7 +205,31 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
       "name": "ARYZE USD18",
       "symbol": "USD18"
-    }
+    },
+     {
+      "address": "0xfd684fFCbC02332AC796A09836Ba31218024FAE3",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
+      "name": "ARYZE eSGD",
+      "symbol": "eSGD"
+    },
+     {
+      "address": "0x8fe75D658F1fB074bDF820DDC6c3B7A5f2Cbd086",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR"
+    },
+     {
+      "address": "0x82aC9e4633f0E736664975c1C3ae2E7FaF676E0D",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD"
+    },
   ]
 }
 
