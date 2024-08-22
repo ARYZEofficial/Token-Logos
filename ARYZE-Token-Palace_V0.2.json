@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 2, "minor": 0, "patch": 20 },
+  "version": { "major": 2, "minor": 0, "patch": 21 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -311,6 +311,14 @@
       "symbol": "eSGD"
     },
     {
+      "address": "0x34c6F26b8bc88C6A8FE8119E3C0C56B63D9BcBBe",
+      "chainId": 59144,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
+      "name": "USDC.e",
+      "symbol": "USDC.e"
+    },
+    {
       "address": "0x7378fd98083ef6d66d73c04a72ce6ff8a3b05eea",
       "chainId": 81457,
       "decimals": 18,
@@ -351,40 +359,8 @@
       "symbol": "eGOLD"
     },
      {
-      "address": "0x34c6F26b8bc88C6A8FE8119E3C0C56B63D9BcBBe",
-      "chainId": 81457,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
-      "name": "USDC.e",
-      "symbol": "USDC.e"
-   },
-     {
-      "address": "0xfd684fFCbC02332AC796A09836Ba31218024FAE3",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
-      "name": "ARYZE eSGD",
-      "symbol": "eSGD"
-    },
-     {
-      "address": "0x8fe75D658F1fB074bDF820DDC6c3B7A5f2Cbd086",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
-      "name": "ARYZE eEUR",
-      "symbol": "eEUR"
-    },
-     {
-      "address": "0x82aC9e4633f0E736664975c1C3ae2E7FaF676E0D",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
-      "name": "ARYZE eUSD",
-      "symbol": "eUSD"
-    },
-     {
       "address": "0x26a9Bd6c765aAe586A32A1cb0Ad35Cc2C7e905c2",
-      "chainId": 11155111,
+      "chainId": 81457,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "Axelar USDC",
