@@ -381,6 +381,14 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD"
+    },
+     {
+      "address": "0x26a9Bd6c765aAe586A32A1cb0Ad35Cc2C7e905c2",
+      "chainId": 11155111,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
+      "name": "Axelar USDC",
+      "symbol": "axlUSDC"
     }
   ]
 }
