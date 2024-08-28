@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 2, "minor": 0, "patch": 21 },
+  "version": { "major": 2, "minor": 0, "patch": 22 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -15,40 +15,56 @@
       "symbol": "RYZE"
      },
      {
-      "address": "0x640BB7B0716a3c58B29f83a10e0B4B51580693d3",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
-      "name": "ARYZE RYZE",
-      "symbol": "RYZE"
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "name": "USD Coin",
+      "symbol": "USDC"
     },
     {
-      "address": "0xfe58138156DeE3EaEF5E6D113210DBF460B61Df1",
-      "chainId": 137,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
-      "name": "ARYZE RYZE",
-      "symbol": "RYZE"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP"
     },
     {
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
       "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
-      "name": "ARYZE eEUR",
-      "symbol": "eEUR"
-    },
-    {
-      "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
-      "name": "ARYZE eEUR",
-      "symbol": "eEUR"
-    },
-    {
-      "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
-      "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
       "name": "ARYZE eEUR",
@@ -63,64 +79,8 @@
       "symbol": "eUSD"
     },
     {
-      "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
-      "name": "ARYZE eUSD",
-      "symbol": "eUSD"
-    },
-    {
-      "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
-      "name": "ARYZE eUSD",
-      "symbol": "eUSD"
-    },
-    {
-      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
-      "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
-      "name": "ARYZE eGBP",
-      "symbol": "eGBP"
-    },
-    {
-      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
-      "name": "ARYZE eGBP",
-      "symbol": "eGBP"
-    },
-    {
-      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
-      "name": "ARYZE eGBP",
-      "symbol": "eGBP"
-    },
-    {
       "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
       "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
-      "name": "ARYZE eSGD",
-      "symbol": "eSGD"
-    },
-    {
-      "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
-      "name": "ARYZE eSGD",
-      "symbol": "eSGD"
-    },
-    {
-      "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
-      "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
       "name": "ARYZE eSGD",
@@ -134,13 +94,133 @@
       "name": "Binance USD",
       "symbol": "BUSD"
     },
-        {
+    {
+      "address": "0xA7DfBA2DFd3aD9Bc0a30D69db439957e92Daf1Bc",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGOLD.png",
+      "name": "ARYZE eGOLD",
+      "symbol": "eGOLD"
+    },
+    {
+      "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
+      "name": "ARYZE eSGD",
+      "symbol": "eSGD"
+    },
+    {
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.jpg",
       "name": "BUSD Token",
       "symbol": "BUSD"
+    },
+    {
+      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP"
+    },
+     {
+      "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD"
+    },
+     {
+      "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR"
+    },
+    {
+      "address": "0x640BB7B0716a3c58B29f83a10e0B4B51580693d3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
+      "name": "ARYZE RYZE",
+      "symbol": "RYZE"
+    },
+    {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg",
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png",
+      "name": "PEPE",
+      "symbol": "PEPE"
+    },
+    {
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg",
+      "name": "Dai Token",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg",
+      "name": "BTCB Token",
+      "symbol": "BTCB"
+    },
+    {
+      "address": "0x2574646118b5694fAAfCB9dCbfDfc1206c9B6936",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGOLD.png",
+      "name": "ARYZE eGOLD",
+      "symbol": "eGOLD"
+    },
+    {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    {
+      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png",
+      "name": "USDT Token",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+      "name": "WBNB Token",
+      "symbol": "WBNB"
     },
     {
       "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
@@ -150,15 +230,47 @@
       "name": "BUSD Token",
       "symbol": "BUSD"
     },
-    {
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "chainId": 1,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-      "name": "USD Coin",
-      "symbol": "USDC"
-    },
      {
+      "address": "0xfe58138156DeE3EaEF5E6D113210DBF460B61Df1",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
+      "name": "ARYZE RYZE",
+      "symbol": "RYZE"
+    },
+    {
+      "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR"
+    },
+    {
+      "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD"
+    },
+    {
+      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP"
+    },
+    {
+      "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
+      "name": "ARYZE eSGD",
+      "symbol": "eSGD"
+    }, 
+    {
       "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
       "chainId": 137,
       "decimals": 6,
@@ -166,79 +278,7 @@
       "name": "USD Coin",
       "symbol": "USDC"
     },
-  {
-      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg",
-      "name": "Binance-Peg USD Coin",
-      "symbol": "USDC"
-    },
-  {
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "chainId": 1,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-      "name": "Tether USD",
-      "symbol": "USDT"
-    },
-        {
-      "address": "0x55d398326f99059fF775485246999027B3197955",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg",
-      "name": "Tether USD",
-      "symbol": "USDT"
-    },
-      {
-      "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png",
-      "name": "PEPE",
-      "symbol": "PEPE"
-    },
-        {
-      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png",
-      "name": "USDT Token",
-      "symbol": "USDT"
-    },
-        {
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
-      "name": "Wrapped Ether",
-      "symbol": "WETH"
-    },
-        {
-      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-      "chainId": 5,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png",
-      "name": "Wrapped Ether",
-      "symbol": "WETH"
-    },
-        {
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg",
-      "name": "Wrapped BNB",
-      "symbol": "WBNB"
-    },
-        {
-      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
-      "name": "WBNB Token",
-      "symbol": "WBNB"
-    },
-        {
+    {
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "chainId": 137,
       "decimals": 18,
@@ -246,37 +286,13 @@
       "name": "WMATIC",
       "symbol": "WMATIC"
     },
-        {
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI"
-    },
-        {
-      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg",
-      "name": "Dai Token",
-      "symbol": "DAI"
-    },
-        {
-      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "chainId": 1,
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
-      "name": "Wrapped Bitcoin",
-      "symbol": "WBTC"
-    },
     {
-      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-      "chainId": 56,
+      "address": "0x30A26Be88D4CADBfb797390097518Df52a756116",
+      "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg",
-      "name": "BTCB Token",
-      "symbol": "BTCB"
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGOLD.png",
+      "name": "ARYZE eGOLD",
+      "symbol": "eGOLD"
     },
     {
       "address": "0x6681E81647D64ee2c71c2804D327a9b20b436318",
@@ -317,6 +333,14 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC.e",
       "symbol": "USDC.e"
+    },
+    {
+      "address": "0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGOLD.png",
+      "name": "ARYZE eGOLD",
+      "symbol": "eGOLD"
     },
     {
       "address": "0x7378fd98083ef6d66d73c04a72ce6ff8a3b05eea",
