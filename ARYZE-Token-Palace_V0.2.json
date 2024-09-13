@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 2, "minor": 0, "patch": 23 },
+  "version": { "major": 2, "minor": 0, "patch": 24 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -397,6 +397,46 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "Axelar USDC",
       "symbol": "axlUSDC"
+    },
+    {
+      "address": "0x3F33c24A155F6ead6f16203c260f882d4507DaCc",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR"
+    },
+    {
+      "address": "0xdc700d7E8E541fc719609C74e737CB45aaAF4780",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP"
+    },
+    {
+      "address": "0xB7150937228C6d02ad32c27CE1AA01Bde93a0cBd",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD"
+    },
+    {
+      "address": "0xD79B606805408661f633c09fD50b1bCA5b4CE1a2",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eSGD.png",
+      "name": "ARYZE eSGD",
+      "symbol": "eSGD"
+    },
+    {
+      "address": "0x6099F4CFeAcb9be8d5c3435Da0Ba2853Cd5188E4",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGOLD.png",
+      "name": "ARYZE eGOLD",
+      "symbol": "eGOLD"
     }
   ]
 }
