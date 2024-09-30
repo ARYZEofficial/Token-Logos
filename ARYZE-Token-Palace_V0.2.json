@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 2, "minor": 0, "patch": 25 },
+  "version": { "major": 2, "minor": 0, "patch": 26 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -98,7 +98,7 @@
       "address": "0xA7DfBA2DFd3aD9Bc0a30D69db439957e92Daf1Bc",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD"
     },
@@ -194,7 +194,7 @@
       "address": "0x2574646118b5694fAAfCB9dCbfDfc1206c9B6936",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD"
     },
@@ -290,7 +290,7 @@
       "address": "0x30A26Be88D4CADBfb797390097518Df52a756116",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD"
     },
@@ -346,7 +346,7 @@
       "address": "0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD"
     },
@@ -386,7 +386,7 @@
       "address": "0x3a07dDF80CBB3b886d8e0370ddb47b75153F1c6D",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD"
     },
@@ -434,7 +434,7 @@
       "address": "0x6099F4CFeAcb9be8d5c3435Da0Ba2853Cd5188E4",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD"
     }
