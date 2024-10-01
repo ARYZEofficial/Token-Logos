@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 2, "minor": 0, "patch": 26 },
+  "version": { "major": 2, "minor": 0, "patch": 27 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -58,7 +58,7 @@
       "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.png",
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
     },
@@ -66,7 +66,7 @@
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
     },
@@ -74,7 +74,7 @@
       "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD"
     },
@@ -82,7 +82,7 @@
       "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.png",
       "name": "ARYZE eSGD",
       "symbol": "eSGD"
     },
@@ -106,7 +106,7 @@
       "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.png",
       "name": "ARYZE eSGD",
       "symbol": "eSGD"
     },
@@ -122,7 +122,7 @@
       "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.png",
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
     },
@@ -130,7 +130,7 @@
       "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD"
     },
@@ -138,7 +138,7 @@
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
     },
@@ -242,7 +242,7 @@
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
     },
@@ -250,7 +250,7 @@
       "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD"
     },
@@ -258,7 +258,7 @@
       "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.png",
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
     },
@@ -266,7 +266,7 @@
       "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.png",
       "name": "ARYZE eSGD",
       "symbol": "eSGD"
     }, 
@@ -306,7 +306,7 @@
       "address": "0x6681E81647D64ee2c71c2804D327a9b20b436318",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
     },
@@ -314,7 +314,7 @@
       "address": "0x50B66DB86cbE4F73C9A3230fB839Bf07897fCFC0",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.png",
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
     },
@@ -322,7 +322,7 @@
       "address": "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD"
     },
@@ -330,7 +330,7 @@
       "address": "0xDFaA3212a43088c9727b4C5e8f37E79C23De9f6b",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.png",
       "name": "ARYZE eSGD",
       "symbol": "eSGD"
     },
@@ -354,7 +354,7 @@
       "address": "0x7378fd98083ef6d66d73c04a72ce6ff8a3b05eea",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
     },
@@ -362,7 +362,7 @@
       "address": "0xb7150937228c6d02ad32c27ce1aa01bde93a0cbd",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.png",
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
     },
@@ -370,7 +370,7 @@
       "address": "0xa29c3072639f96ba797ec563820e4b0d7b08a574",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD"
     },
@@ -378,7 +378,7 @@
       "address": "0x77fd9a4b71f2f0dd4a8db4b12aeb2b283a09e50f",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.png",
       "name": "ARYZE eSGD",
       "symbol": "eSGD"
     },
@@ -402,7 +402,7 @@
       "address": "0x3F33c24A155F6ead6f16203c260f882d4507DaCc",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR"
     },
@@ -410,7 +410,7 @@
       "address": "0xdc700d7E8E541fc719609C74e737CB45aaAF4780",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.png",
       "name": "ARYZE eGBP",
       "symbol": "eGBP"
     },
@@ -418,7 +418,7 @@
       "address": "0xB7150937228C6d02ad32c27CE1AA01Bde93a0cBd",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD"
     },
@@ -426,7 +426,7 @@
       "address": "0xD79B606805408661f633c09fD50b1bCA5b4CE1a2",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.svg",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.png",
       "name": "ARYZE eSGD",
       "symbol": "eSGD"
     },
