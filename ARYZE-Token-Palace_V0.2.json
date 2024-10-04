@@ -1,7 +1,7 @@
 {
   "name": "ARYZE Token Palace",
   "timestamp": "2022-10-20T14:40:22.229Z",
-  "version": { "major": 2, "minor": 0, "patch": 27 },
+  "version": { "major": 2, "minor": 0, "patch": 28 },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": ["ARYZE", "default"],
@@ -433,6 +433,46 @@
     {
       "address": "0x6099F4CFeAcb9be8d5c3435Da0Ba2853Cd5188E4",
       "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
+      "name": "ARYZE eGOLD",
+      "symbol": "eGOLD"
+    },
+       {
+      "address": "0x4b9A3d1647BcfF64A8B08B0fCDcfA9c2aF5eaafE",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eEUR.png",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR"
+    },
+    {
+      "address": "0xde73288f88BC4fabf9bCE114E29532D407b01309",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGBP.png",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP"
+    },
+    {
+      "address": "0xDE09E4124094207057f17b0505b1A46549D8d78a",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD"
+    },
+    {
+      "address": "0x35C16A8f49F3A296d1d252B5473e6e1d4216eD80",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eSGD.png",
+      "name": "ARYZE eSGD",
+      "symbol": "eSGD"
+    },
+    {
+      "address": "0x04375dF5f7f514e4c38D2D84D45fcEA0D4BA7F0f",
+      "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "ARYZE eGOLD",
