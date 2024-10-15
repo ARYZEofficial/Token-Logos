@@ -1,0 +1,24 @@
+{
+  "name": "token-logos",
+  "version": "1.0.0",
+  "description": "Build token list and logos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node  --loader ts-node/esm src/index.ts"
+  },
+  "keywords": [
+    "ARYZE",
+    "Stablecoins"
+  ],
+  "author": "Dima Rud",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.2.2",
+    "chalk": "^5.3.0",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {}
+}
