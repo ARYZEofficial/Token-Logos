@@ -1,15 +1,20 @@
-# List of Aryze supported tokens and logos
+# Supported Tokens
 
-# <span style="color:red">Moving files may break some services!</span>
+## ⚠️ **Note:** Moving files may disrupt certain services!
 
-## To add new token:
+## ✨ Adding a New Token
 
-1. add token to
+1. **🔄 Update Token List:**
 
-   `src/const/tokensProd.ts` or
+   - Modify `src/const/tokensProd.ts` or `src/const/tokensDev.ts` to include the new token.
 
-   `src/const/tokensDev.ts`
+2. **⚙️ Rebuild Project:**
 
-2. run `npm run build`
-3. push changes to git
-4. updated tokens in `data` directory
+   - Execute `npm run build` to reflect the changes.
+
+3. **📦 Commit and Push:**
+
+   - Push the updated code to your Git repository.
+
+4. **🔗 Sync Token Data:**
+   - Ensure the token information is updated in the `data` directory.
