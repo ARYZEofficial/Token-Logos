@@ -1,4 +1,4 @@
-import {IToken} from '../interfaces/IToken';
+import { IToken } from '../interfaces/IToken';
 
 export const TOKENS: IToken[] = [
   //BASE
@@ -44,11 +44,11 @@ export const TOKENS: IToken[] = [
   },
   //
   {
-    address: '0x640BB7B0716a3c58B29f83a10e0B4B51580693d3',
+    address: '0x44e3ae622c1570dc6e492adb8de92d01ca923d26',
     chainId: 1,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg',
-    name: 'ARYZE RYZE',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/RYZE.png',
+    name: 'Aryze',
     symbol: 'RYZE'
   },
   {
@@ -181,11 +181,11 @@ export const TOKENS: IToken[] = [
     symbol: 'eEUR'
   },
   {
-    address: '0x640BB7B0716a3c58B29f83a10e0B4B51580693d3',
+    address: '0x7712da72127d5dd213b621497d6e4899d5989e5c',
     chainId: 56,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg',
-    name: 'ARYZE RYZE',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/RYZE.png',
+    name: 'Aryze',
     symbol: 'RYZE'
   },
   {
@@ -274,11 +274,11 @@ export const TOKENS: IToken[] = [
     symbol: 'BUSD'
   },
   {
-    address: '0xfe58138156DeE3EaEF5E6D113210DBF460B61Df1',
+    address: '0x44e3ae622c1570dc6e492adb8de92d01ca923d26',
     chainId: 137,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg',
-    name: 'ARYZE RYZE',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/RYZE.png',
+    name: 'Aryze',
     symbol: 'RYZE'
   },
   {
@@ -770,8 +770,8 @@ export const TOKENS: IToken[] = [
     address: '0x7712da72127d5dd213b621497d6e4899d5989e5c',
     chainId: 42161,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg',
-    name: 'ARYZE RYZE',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/RYZE.png',
+    name: 'Aryze',
     symbol: 'RYZE'
   }
 ];
