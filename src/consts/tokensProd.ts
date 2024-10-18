@@ -1,4 +1,4 @@
-import { IToken } from '../interfaces/IToken';
+import {IToken} from '../interfaces/IToken';
 
 export const TOKENS: IToken[] = [
   //BASE
@@ -47,7 +47,7 @@ export const TOKENS: IToken[] = [
     address: '0x44e3ae622c1570dc6e492adb8de92d01ca923d26',
     chainId: 1,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/RYZE.png',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
     name: 'Aryze',
     symbol: 'RYZE'
   },
@@ -184,7 +184,7 @@ export const TOKENS: IToken[] = [
     address: '0x7712da72127d5dd213b621497d6e4899d5989e5c',
     chainId: 56,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/RYZE.png',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
     name: 'Aryze',
     symbol: 'RYZE'
   },
@@ -277,7 +277,7 @@ export const TOKENS: IToken[] = [
     address: '0x44e3ae622c1570dc6e492adb8de92d01ca923d26',
     chainId: 137,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/RYZE.png',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
     name: 'Aryze',
     symbol: 'RYZE'
   },
@@ -770,7 +770,7 @@ export const TOKENS: IToken[] = [
     address: '0x7712da72127d5dd213b621497d6e4899d5989e5c',
     chainId: 42161,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/RYZE.png',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
     name: 'Aryze',
     symbol: 'RYZE'
   }
