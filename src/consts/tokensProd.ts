@@ -773,5 +773,13 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
     name: 'Aryze',
     symbol: 'RYZE'
+  },
+  {
+    address: '0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8',
+    chainId: 59144,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
+    name: 'Aryze',
+    symbol: 'RYZE'
   }
 ];
