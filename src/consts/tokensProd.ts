@@ -1,4 +1,4 @@
-import { IToken } from '../interfaces/IToken';
+import {IToken} from '../interfaces/IToken';
 
 export const TOKENS: IToken[] = [
   //BASE
@@ -783,19 +783,19 @@ export const TOKENS: IToken[] = [
     symbol: 'RYZE'
   },
   {
-    address: '0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8',
+    address: '0xe9bf6a66fcdfe9aac20f9288246f0678c92df427',
     chainId: 1,
     decimals: 18,
     logoURI: 'https://cdn-icons-png.flaticon.com/512/6681/6681925.png',
     name: 'Your stablecoin',
     symbol: 'Your stablecoin'
   },
-   {
-    address: '0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8',
+  {
+    address: '0xe9bf6a66fcdfe9aac20f9288246f0678c92df427',
     chainId: 137,
     decimals: 18,
     logoURI: 'https://cdn-icons-png.flaticon.com/512/6681/6681925.png',
     name: 'Your stablecoin',
     symbol: 'Your stablecoin'
-  },
+  }
 ];
