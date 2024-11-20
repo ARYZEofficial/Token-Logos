@@ -178,6 +178,14 @@ export const TOKENS_DEV: IToken[] = [
     symbol: 'USD6'
   },
   {
+    address: '0x082f14636e31881d0b2b2b4e524e5055c0ffbdcc',
+    chainId: 80002,
+    decimals: 6,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'ARYZE USD6',
+    symbol: 'USD6'
+  },
+  {
     address: '0xA0535c82a9934F6b6656D0e1F0c375f40B0f3c99',
     chainId: 80002,
     decimals: 18,

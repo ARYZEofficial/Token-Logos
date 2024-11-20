@@ -216,6 +216,14 @@
       "symbol": "USD6"
     },
     {
+      "address": "0x082f14636e31881d0b2b2b4e524e5055c0ffbdcc",
+      "chainId": 80002,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "ARYZE USD6",
+      "symbol": "USD6"
+    },
+    {
       "address": "0x8fe75D658F1fB074bDF820DDC6c3B7A5f2Cbd086",
       "chainId": 11155111,
       "decimals": 18,
