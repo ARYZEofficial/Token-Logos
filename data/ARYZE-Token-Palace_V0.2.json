@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2024-10-18T09:51:08.952Z",
+  "timestamp": "2024-10-23T08:01:50.104Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 33
+    "patch": 34
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -110,6 +110,14 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
       "name": "Wrapped Ether",
       "symbol": "WETH"
+    },
+    {
+      "address": "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://cdn-icons-png.flaticon.com/512/6681/6681925.png",
+      "name": "Your stablecoin",
+      "symbol": "Your stablecoin"
     },
     {
       "address": "0x77fD9A4B71F2f0Dd4a8db4b12AeB2b283a09e50F",
@@ -350,6 +358,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
       "name": "WMATIC",
       "symbol": "WMATIC"
+    },
+    {
+      "address": "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://cdn-icons-png.flaticon.com/512/6681/6681925.png",
+      "name": "Your stablecoin",
+      "symbol": "Your stablecoin"
     },
     {
       "address": "0x4b9A3d1647BcfF64A8B08B0fCDcfA9c2aF5eaafE",
