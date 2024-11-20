@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2024-11-20T10:31:32.731Z",
+  "timestamp": "2024-11-20T10:40:21.325Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 35
+    "patch": 36
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -112,7 +112,7 @@
       "symbol": "WETH"
     },
     {
-      "address": "0xe9bf6a66fcdfe9aac20f9288246f0678c92df427",
+      "address": "0x735fa792e731a2e8f83f32eb539841b7b72e6d8f",
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://cdn-icons-png.flaticon.com/512/6681/6681925.png",
@@ -360,7 +360,7 @@
       "symbol": "WMATIC"
     },
     {
-      "address": "0xe9bf6a66fcdfe9aac20f9288246f0678c92df427",
+      "address": "0x735fa792e731a2e8f83f32eb539841b7b72e6d8f",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://cdn-icons-png.flaticon.com/512/6681/6681925.png",
