@@ -783,7 +783,7 @@ export const TOKENS: IToken[] = [
     symbol: 'RYZE'
   },
   {
-    address: '0xe9bf6a66fcdfe9aac20f9288246f0678c92df427',
+    address: '0x735fa792e731a2e8f83f32eb539841b7b72e6d8f',
     chainId: 1,
     decimals: 18,
     logoURI: 'https://cdn-icons-png.flaticon.com/512/6681/6681925.png',
@@ -791,7 +791,7 @@ export const TOKENS: IToken[] = [
     symbol: 'Your stablecoin'
   },
   {
-    address: '0xe9bf6a66fcdfe9aac20f9288246f0678c92df427',
+    address: '0x735fa792e731a2e8f83f32eb539841b7b72e6d8f',
     chainId: 137,
     decimals: 18,
     logoURI: 'https://cdn-icons-png.flaticon.com/512/6681/6681925.png',
