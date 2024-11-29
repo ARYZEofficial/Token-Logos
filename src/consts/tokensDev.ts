@@ -232,5 +232,13 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png',
     name: 'ARYZE eUSD',
     symbol: 'eUSD'
+  },
+  {
+    address: '0x7924ce9e015ce4d84aea3cdf31754f0fdca9f54d',
+    chainId: 80002,
+    decimals: 6,
+    logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg',
+    name: 'USD Coin',
+    symbol: 'USDC'
   }
 ];
