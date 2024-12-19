@@ -240,5 +240,21 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg',
     name: 'USD Coin',
     symbol: 'USDC'
+  },
+  {
+    address: '0x440bcb920273a98ed7ea16b1c7cb40be9e6e8d0d',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'Solum Gold',
+    symbol: 'sgGOLD'
+  },
+  {
+    address: '0xbd013fc3ab63f96fe022cc9fdea76afd8245b8a1',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'Solum Dollar',
+    symbol: 'sgUSD'
   }
 ];
