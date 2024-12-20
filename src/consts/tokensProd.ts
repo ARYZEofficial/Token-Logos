@@ -830,8 +830,8 @@ export const TOKENS: IToken[] = [
     chainId: 8453,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png',
-    name: 'Aryze',
-    symbol: 'RYZE',
+    name: 'Solum Gold',
+    symbol: 'sgGOLD',
     company: 'Solum'
   }
 ];
