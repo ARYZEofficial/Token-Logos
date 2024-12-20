@@ -799,7 +799,7 @@ export const TOKENS: IToken[] = [
     symbol: 'Your stablecoin'
   },
   {
-    address: '0xFFB9330A2bec43A23c46c83d4F4c0A6bb449F353',
+    address: '0xffb9330a2bec43a23c46c83d4f4c0a6bb449f353',
     chainId: 81457,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
