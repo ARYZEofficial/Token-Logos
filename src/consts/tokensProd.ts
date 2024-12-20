@@ -833,5 +833,32 @@ export const TOKENS: IToken[] = [
     name: 'Solum Gold',
     symbol: 'sgGOLD',
     company: 'Solum'
+  },
+  {
+    address: '0xe5c7e29a2bbad0c6c1b68cbd9ab0cf6837f02d7c',
+    chainId: 56,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png',
+    name: 'Solum Dollar',
+    symbol: 'sgUSD',
+    company: 'Solum'
+  },
+  {
+    address: '0xb11aba4e4df5f9f06b12907ea57a2ad3d052b346',
+    chainId: 1,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png',
+    name: 'Solum Dollar',
+    symbol: 'sgUSD',
+    company: 'Solum'
+  },
+  {
+    address: '0xd79b606805408661f633c09fd50b1bca5b4ce1a2',
+    chainId: 8453,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png',
+    name: 'Solum Dollar',
+    symbol: 'sgUSD',
+    company: 'Solum'
   }
 ];

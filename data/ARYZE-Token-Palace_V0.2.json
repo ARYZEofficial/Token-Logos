@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2024-12-20T12:20:58.626Z",
+  "timestamp": "2024-12-20T15:01:41.883Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 45
+    "patch": 46
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -86,6 +86,15 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "Solum Gold",
       "symbol": "sgGOLD",
+      "company": "Solum"
+    },
+    {
+      "address": "0xb11aba4e4df5f9f06b12907ea57a2ad3d052b346",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
+      "name": "Solum Dollar",
+      "symbol": "sgUSD",
       "company": "Solum"
     },
     {
@@ -255,6 +264,15 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "Solum Gold",
       "symbol": "sgGOLD",
+      "company": "Solum"
+    },
+    {
+      "address": "0xe5c7e29a2bbad0c6c1b68cbd9ab0cf6837f02d7c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
+      "name": "Solum Dollar",
+      "symbol": "sgUSD",
       "company": "Solum"
     },
     {
@@ -512,6 +530,15 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png",
       "name": "Solum Gold",
       "symbol": "sgGOLD",
+      "company": "Solum"
+    },
+    {
+      "address": "0xd79b606805408661f633c09fd50b1bca5b4ce1a2",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eUSD.png",
+      "name": "Solum Dollar",
+      "symbol": "sgUSD",
       "company": "Solum"
     },
     {
