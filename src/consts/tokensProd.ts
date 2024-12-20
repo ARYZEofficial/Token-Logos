@@ -797,5 +797,13 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://cdn-icons-png.flaticon.com/512/6681/6681925.png',
     name: 'Your stablecoin',
     symbol: 'Your stablecoin'
+  },
+  {
+    address: '0xFFB9330A2bec43A23c46c83d4F4c0A6bb449F353',
+    chainId: 81457,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
+    name: 'Aryze',
+    symbol: 'RYZE'
   }
 ];
