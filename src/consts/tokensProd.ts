@@ -805,5 +805,33 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png',
     name: 'Aryze',
     symbol: 'RYZE'
+  },
+  ///SOLUM
+  {
+    address: '0xdd673ef19cb3b0574f4fcbbfbc42ad7d9a5b1614',
+    chainId: 56,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png',
+    name: 'Solum Gold',
+    symbol: 'sgGOLD',
+    company: 'Solum'
+  },
+  {
+    address: '0x2510783d391a438a99e65fd7067ae0c8c534f2e4',
+    chainId: 1,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png',
+    name: 'Solum Gold',
+    symbol: 'sgGOLD',
+    company: 'Solum'
+  },
+  {
+    address: '0xf5aebda4fd88f7dca16e6236d23801e973a847e7',
+    chainId: 8453,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/eGOLD.png',
+    name: 'Aryze',
+    symbol: 'RYZE',
+    company: 'Solum'
   }
 ];

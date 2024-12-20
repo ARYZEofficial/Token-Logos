@@ -5,4 +5,5 @@ export interface IToken {
   logoURI: string;
   name: string;
   symbol: string;
+  company?: string;
 }
