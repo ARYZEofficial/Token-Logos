@@ -811,7 +811,8 @@ export const TOKENS: IToken[] = [
     address: '0xdd673ef19cb3b0574f4fcbbfbc42ad7d9a5b1614',
     chainId: 56,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/src/assets/gold-logo.svg',
+    logoURI:
+      'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Solum%20Gold/SolumGlobal_Coin_Final.png',
     name: 'Solum Gold',
     symbol: 'sgGOLD',
     company: 'Solum'
@@ -820,7 +821,8 @@ export const TOKENS: IToken[] = [
     address: '0x2510783d391a438a99e65fd7067ae0c8c534f2e4',
     chainId: 1,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/src/assets/gold-logo.svg',
+    logoURI:
+      'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Solum%20Gold/SolumGlobal_Coin_Final.png',
     name: 'Solum Gold',
     symbol: 'sgGOLD',
     company: 'Solum'
@@ -829,7 +831,8 @@ export const TOKENS: IToken[] = [
     address: '0xf5aebda4fd88f7dca16e6236d23801e973a847e7',
     chainId: 8453,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/src/assets/gold-logo.svg',
+    logoURI:
+      'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Solum%20Gold/SolumGlobal_Coin_Final.png',
     name: 'Solum Gold',
     symbol: 'sgGOLD',
     company: 'Solum'
@@ -838,7 +841,8 @@ export const TOKENS: IToken[] = [
     address: '0xe5c7e29a2bbad0c6c1b68cbd9ab0cf6837f02d7c',
     chainId: 56,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/src/assets/usd-logo.svg',
+    logoURI:
+      'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Solum%20Gold/SquareGold.png',
     name: 'Solum Dollar',
     symbol: 'sgUSD',
     company: 'Solum'
@@ -847,7 +851,8 @@ export const TOKENS: IToken[] = [
     address: '0xb11aba4e4df5f9f06b12907ea57a2ad3d052b346',
     chainId: 1,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/src/assets/usd-logo.svg',
+    logoURI:
+      'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Solum%20Gold/SquareGold.png',
     name: 'Solum Dollar',
     symbol: 'sgUSD',
     company: 'Solum'
@@ -856,7 +861,8 @@ export const TOKENS: IToken[] = [
     address: '0xd79b606805408661f633c09fd50b1bca5b4ce1a2',
     chainId: 8453,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/src/assets/usd-logo.svg',
+    logoURI:
+      'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/Solum%20Gold/SquareGold.png',
     name: 'Solum Dollar',
     symbol: 'sgUSD',
     company: 'Solum'
