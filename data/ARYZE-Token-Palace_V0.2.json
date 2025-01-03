@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-01-03T10:49:14.049Z",
+  "timestamp": "2025-01-03T10:49:28.703Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 52
+    "patch": 53
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -92,7 +92,7 @@
       "address": "0xb11aba4e4df5f9f06b12907ea57a2ad3d052b346",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/Solum%20Global/sgUSD.png",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/Solum%20Global/sgUSD.svg",
       "name": "Solum Dollar",
       "symbol": "sgUSD",
       "company": "Solum"
@@ -270,7 +270,7 @@
       "address": "0xe5c7e29a2bbad0c6c1b68cbd9ab0cf6837f02d7c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/Solum%20Global/sgUSD.png",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/Solum%20Global/sgUSD.svg",
       "name": "Solum Dollar",
       "symbol": "sgUSD",
       "company": "Solum"
@@ -536,7 +536,7 @@
       "address": "0xd79b606805408661f633c09fd50b1bca5b4ce1a2",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/Solum%20Global/sgUSD.png",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/Solum%20Global/sgUSD.svg",
       "name": "Solum Dollar",
       "symbol": "sgUSD",
       "company": "Solum"
