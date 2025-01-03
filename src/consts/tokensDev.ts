@@ -255,7 +255,7 @@ export const TOKENS_DEV: IToken[] = [
     chainId: 80002,
     decimals: 18,
     logoURI:
-      'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/Solum%20Global/sgUSD.png',
+      'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/Solum%20Global/sgUSD.svg',
     name: 'Solum Dollar',
     symbol: 'sgUSD'
   }
