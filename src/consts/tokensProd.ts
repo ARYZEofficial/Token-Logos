@@ -953,5 +953,23 @@ export const TOKENS: IToken[] = [
     name: 'Solum Dollar',
     symbol: 'sgUSD',
     companies: ['solum']
+  },
+  {
+    address: '0x44e3ae622c1570dc6e492adb8de92d01ca923d26',
+    chainId: 42161,
+    decimals: 6,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
+    name: 'USDC Coin',
+    symbol: 'USDC',
+    companies: ['aryze']
+  },
+  {
+    address: '0xaf88d065e77c8cc2239327c5edb3a432268e5831',
+    chainId: 42161,
+    decimals: 6,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
+    name: 'USDC Coin',
+    symbol: 'USDC',
+    companies: []
   }
 ];
