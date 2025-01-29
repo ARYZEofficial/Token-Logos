@@ -5,11 +5,13 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "node  --loader ts-node/esm src/index.ts"
+    "build": "node  --loader ts-node/esm src/index.ts",
+    "build-rubic": "node  --loader ts-node/esm src/services/buildRubic.ts"
   },
   "keywords": [
     "ARYZE",
-    "Stablecoins"
+    "Stablecoins",
+    "Blockchain"
   ],
   "author": "Dima Rud",
   "license": "ISC",
