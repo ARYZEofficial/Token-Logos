@@ -1,15 +1,13 @@
 import chalk from 'chalk';
 import * as fs from 'fs';
 import * as path from 'path';
-import {TOKEN_LIST_FILE_NAME, TOKEN_LIST_FILE_NAME_DEV} from '../consts/exportNames';
+import {OUTPUT_DIR, TOKEN_LIST_FILE_NAME, TOKEN_LIST_FILE_NAME_DEV} from '../consts/exportNames';
 import {JSON_DEV_PARAMS} from '../consts/jsonParamsDev';
 import {JSON_PROD_PARAMS} from '../consts/jsonParamsProd';
 import {TOKENS_DEV} from '../consts/tokensDev';
 import {TOKENS} from '../consts/tokensProd';
 import {IJson} from '../interfaces/IJson';
 import {updateParams as updateParamsVersion} from './updateParams';
-
-const OUTPUT_DIR = '/data';
 
 export async function build(env: 'DEV' | 'PROD') {
   try {
@@ -26,12 +24,13 @@ export async function build(env: 'DEV' | 'PROD') {
       filePath = path.join(__dirname, OUTPUT_DIR, TOKEN_LIST_FILE_NAME);
     }
     write(filePath, data);
+    console.log(`Saved ${data.tokens.length} tokens`);
   } catch (error) {
     console.log(error);
   }
 }
 
-function write(filePath: string, data: object) {
+export function write(filePath: string, data: object) {
   try {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2), {flag: 'wx'});
     console.log(chalk.bgGreenBright('File created successfully:', filePath));
