@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-01-16T09:46:52.803Z",
+  "timestamp": "2025-02-17T15:11:43.893Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 57
+    "patch": 58
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -808,9 +808,7 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC Coin",
       "symbol": "USDC",
-      "companies": [
-        "aryze"
-      ]
+      "companies": []
     },
     {
       "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",

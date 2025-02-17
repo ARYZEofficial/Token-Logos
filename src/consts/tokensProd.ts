@@ -961,7 +961,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
     name: 'USDC Coin',
     symbol: 'USDC',
-    companies: ['aryze']
+    companies: []
   },
   {
     address: '0xaf88d065e77c8cc2239327c5edb3a432268e5831',
