@@ -1,16 +1,17 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-01-14T16:39:50.257Z",
+  "timestamp": "2025-01-16T09:46:52.803Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 56
+    "patch": 57
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
   "keywords": [
     "ARYZE",
     "Stablecoins",
+    "Blockchain",
     "eUSD",
     "eGOLD"
   ],
@@ -472,9 +473,7 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC Coin",
       "symbol": "USDC",
-      "companies": [
-        "aryze"
-      ]
+      "companies": []
     },
     {
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -1005,9 +1004,7 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC.e",
       "symbol": "USDC.e",
-      "companies": [
-        "aryze"
-      ]
+      "companies": []
     },
     {
       "address": "0x26a9Bd6c765aAe586A32A1cb0Ad35Cc2C7e905c2",
