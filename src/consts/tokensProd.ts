@@ -376,7 +376,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
     name: 'USDC Coin',
     symbol: 'USDC',
-    companies: ['aryze']
+    companies: []
   },
   {
     address: '0x6681E81647D64ee2c71c2804D327a9b20b436318',
@@ -421,7 +421,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
     name: 'USDC.e',
     symbol: 'USDC.e',
-    companies: ['aryze']
+    companies: []
   },
   {
     address: '0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067',
@@ -961,7 +961,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
     name: 'USDC Coin',
     symbol: 'USDC',
-    companies: ['aryze']
+    companies: []
   },
   {
     address: '0xaf88d065e77c8cc2239327c5edb3a432268e5831',

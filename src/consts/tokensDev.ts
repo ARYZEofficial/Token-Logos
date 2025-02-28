@@ -44,7 +44,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg',
     name: 'ManuelRYZESale',
     symbol: 'MRS',
-    companies: ['aryze']
+    companies: []
   },
   {
     address: '0xe5287e2265ef9b410261214357632457362d0aab',
