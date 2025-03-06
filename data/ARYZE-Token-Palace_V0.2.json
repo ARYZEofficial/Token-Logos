@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-02-17T15:11:43.893Z",
+  "timestamp": "2025-02-17T15:13:01.203Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 58
+    "patch": 59
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -42,7 +42,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -53,7 +54,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -64,7 +66,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -75,7 +78,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -86,7 +90,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -94,10 +99,11 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -175,7 +181,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -186,7 +193,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -197,7 +205,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -208,7 +217,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -219,7 +229,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -257,7 +268,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -268,7 +280,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -279,7 +292,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -290,7 +304,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -301,7 +316,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -309,10 +325,11 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -399,7 +416,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -410,7 +428,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -421,7 +440,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -432,7 +452,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -443,7 +464,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -451,10 +473,11 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -501,7 +524,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -512,7 +536,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -523,7 +548,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -534,7 +560,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -545,7 +572,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -556,7 +584,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -567,7 +596,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -578,7 +608,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -589,7 +620,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -600,7 +632,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -611,7 +644,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -622,7 +656,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -633,7 +668,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -644,7 +680,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -655,7 +692,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -688,7 +726,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -699,7 +738,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -710,7 +750,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -721,7 +762,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -732,7 +774,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -743,7 +786,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -754,7 +798,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -765,7 +810,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -776,7 +822,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -787,7 +834,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -795,10 +843,11 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -827,7 +876,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -838,7 +888,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -849,7 +900,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -860,7 +912,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -871,7 +924,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -882,7 +936,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -893,7 +948,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -904,7 +960,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -915,7 +972,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -926,7 +984,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -937,7 +996,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -948,7 +1008,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -959,7 +1020,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -970,7 +1032,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -981,7 +1044,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -989,10 +1053,11 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1021,7 +1086,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1032,7 +1098,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1043,7 +1110,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1054,7 +1122,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1065,7 +1134,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1073,10 +1143,11 @@
       "chainId": 81457,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1087,7 +1158,8 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1098,7 +1170,8 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1109,7 +1182,8 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1120,7 +1194,8 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     },
     {
@@ -1131,7 +1206,8 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze"
+        "aryze",
+        "devops"
       ]
     }
   ]
