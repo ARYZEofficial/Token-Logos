@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-03-06T14:41:50.907Z",
+  "timestamp": "2025-03-10T15:38:58.949Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 38
+    "patch": 39
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -243,23 +243,23 @@
       ]
     },
     {
-      "address": "0x34C0F1A2bfdacc82cCEF691870487ac58096052c",
-      "chainId": 80002,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
-      "name": "ARYZE ERC20 ",
-      "symbol": "ERC20",
-      "companies": [
-        "aryze"
-      ]
-    },
-    {
       "address": "0xcb0527a58BEaEE9161Ccd914AA9b7d3A8c858F6C",
       "chainId": 80002,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
+      "companies": [
+        "aryze"
+      ]
+    },
+    {
+      "address": "0x34C0F1A2bfdacc82cCEF691870487ac58096052c",
+      "chainId": 80002,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemonFlix",
+      "symbol": "LFLX",
       "companies": [
         "aryze"
       ]

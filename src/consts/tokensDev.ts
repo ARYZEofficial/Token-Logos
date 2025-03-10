@@ -296,8 +296,8 @@ export const TOKENS_DEV: IToken[] = [
     chainId: 80002,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
-    name: 'ARYZE ERC20 ',
-    symbol: 'ERC20',
+    name: 'LemonFlix',
+    symbol: 'LFLX',
     companies: ['aryze']
   }
 ];
