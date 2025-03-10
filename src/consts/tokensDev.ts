@@ -290,5 +290,14 @@ export const TOKENS_DEV: IToken[] = [
     name: 'Solum Dollar',
     symbol: 'sgUSD',
     companies: ['solum']
+  },
+  {
+    address: '0x34C0F1A2bfdacc82cCEF691870487ac58096052c',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'ARYZE ERC20 ',
+    symbol: 'ERC20',
+    companies: ['aryze']
   }
 ];
