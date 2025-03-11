@@ -292,12 +292,12 @@ export const TOKENS_DEV: IToken[] = [
     companies: ['solum']
   },
   {
-    address: '0x34C0F1A2bfdacc82cCEF691870487ac58096052c',
+    address: '0xa9c69171f64170d2c34299852B0065C415Cf2aA7',
     chainId: 80002,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
-    name: 'LemonFlix',
+    logoURI: 'https://cdn-icons-png.flaticon.com/512/6539/6539278.png',
+    name: 'LemonFlixDemo',
     symbol: 'LFLX',
-    companies: ['aryze']
+    companies: ['whizgrid']
   }
 ];

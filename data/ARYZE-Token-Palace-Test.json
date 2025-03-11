@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-03-10T15:38:58.949Z",
+  "timestamp": "2025-03-10T15:45:16.274Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 39
+    "patch": 40
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -254,14 +254,14 @@
       ]
     },
     {
-      "address": "0x34C0F1A2bfdacc82cCEF691870487ac58096052c",
+      "address": "0xa9c69171f64170d2c34299852B0065C415Cf2aA7",
       "chainId": 80002,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
-      "name": "LemonFlix",
+      "logoURI": "https://cdn-icons-png.flaticon.com/512/6539/6539278.png",
+      "name": "LemonFlixDemo",
       "symbol": "LFLX",
       "companies": [
-        "aryze"
+        "whizgrid"
       ]
     },
     {
