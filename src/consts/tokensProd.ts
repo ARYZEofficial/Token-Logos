@@ -971,5 +971,23 @@ export const TOKENS: IToken[] = [
     name: 'USDC Coin',
     symbol: 'USDC',
     companies: []
+  },
+  {
+    address: '0x27f9AA6514AbE41c2FAD54e5d3dFF321fCbE50B6',
+    chainId: 1006,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/main/networks/lemonchain.png',
+    name: 'LemonFlixDemo',
+    symbol: 'LFLX',
+    companies: ['whizgrid']
+  },
+  {
+    address: '0x0D1F7CDa608507de0330647ef02356Baba10085C',
+    chainId: 56,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/main/networks/lemonchain.png',
+    name: 'LemonFlixDemo',
+    symbol: 'LFLX',
+    companies: ['whizgrid']
   }
 ];

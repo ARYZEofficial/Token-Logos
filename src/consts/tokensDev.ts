@@ -299,14 +299,5 @@ export const TOKENS_DEV: IToken[] = [
     name: 'LemonFlixDemo',
     symbol: 'LFLX',
     companies: ['whizgrid']
-  },
-  {
-    address: '0x27f9AA6514AbE41c2FAD54e5d3dFF321fCbE50B6',
-    chainId: 1006,
-    decimals: 18,
-    logoURI: 'https://cdn-icons-png.flaticon.com/512/6539/6539278.png',
-    name: 'LemonFlixDemo',
-    symbol: 'LFLX',
-    companies: ['whizgrid']
   }
 ];
