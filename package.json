@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "build": "node  --loader ts-node/esm src/index.ts",
-    "build-rubic": "node  --loader ts-node/esm src/services/buildRubic.ts"
+    "build-rubic": "node  --loader ts-node/esm src/services/buildRubic.ts",
+    "prepare": "husky"
   },
   "keywords": [
     "ARYZE",
@@ -17,10 +18,10 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.7.5",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.2.2",
     "chalk": "^5.3.0",
-    "prettier": "^3.3.3"
-  },
-  "dependencies": {}
+    "husky": "^9.1.7",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.2.2"
+  }
 }

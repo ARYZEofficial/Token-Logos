@@ -344,5 +344,17 @@ export const TOKENS_DEV: IToken[] = [
     symbol: 'NFT',
     companies: ['aryze'],
     supportedRouterVersions: [3]
+  },
+  {
+    _comment:
+      'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0x545d7c7ab332C04dE5CfaD8d2980E4fa976eb267',
+    chainId: 80002,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'ARYZE ERC20',
+    symbol: 'ERC20',
+    companies: ['aryze'],
+    supportedRouterVersions: [3]
   }
 ];
