@@ -1097,5 +1097,17 @@ export const TOKENS: IToken[] = [
     symbol: 'LFLX',
     companies: ['whizgrid'],
     supportedRouterVersions: [2]
+  },
+  {
+    _comment:
+      'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0x3c2083c30f49427b820fDd1B0D7dF6FDD82b6ABB',
+    chainId: 80002,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'ARYZE NFT',
+    symbol: 'NFT',
+    companies: ['aryze'],
+    supportedRouterVersions: [3]
   }
 ];
