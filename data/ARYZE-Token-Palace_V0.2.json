@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-03-11T13:03:59.689Z",
+  "timestamp": "2025-03-11T15:36:27.070Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 64
+    "patch": 65
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -23,7 +23,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
       "name": "Binance USD",
       "symbol": "BUSD",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -32,7 +35,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
@@ -42,8 +48,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -54,8 +62,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -66,8 +76,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -78,8 +90,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -90,8 +104,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -102,8 +118,10 @@
       "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -115,6 +133,9 @@
       "symbol": "sgGOLD",
       "companies": [
         "solum"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -126,6 +147,9 @@
       "symbol": "sgUSD",
       "companies": [
         "solum"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -135,7 +159,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
       "name": "USD Coin",
       "symbol": "USDC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -144,7 +171,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
       "name": "Tether USD",
       "symbol": "USDT",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
@@ -153,7 +183,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -162,7 +195,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
       "name": "Wrapped Ether",
       "symbol": "WETH",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x735fa792e731a2e8f83f32eb539841b7b72e6d8f",
@@ -171,7 +207,10 @@
       "logoURI": "https://cdn-icons-png.flaticon.com/512/6681/6681925.png",
       "name": "Your stablecoin",
       "symbol": "Your stablecoin",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x77fD9A4B71F2f0Dd4a8db4b12AeB2b283a09e50F",
@@ -181,8 +220,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -193,8 +234,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -205,8 +248,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -217,8 +262,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -229,8 +276,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -240,7 +289,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg",
       "name": "BTCB Token",
       "symbol": "BTCB",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
@@ -249,7 +301,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.jpg",
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
@@ -258,7 +313,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg",
       "name": "Dai Token",
       "symbol": "DAI",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
@@ -268,8 +326,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -280,8 +340,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -292,8 +354,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -304,8 +368,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -316,8 +382,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -329,6 +397,9 @@
       "symbol": "LFLX",
       "companies": [
         "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -339,8 +410,10 @@
       "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -352,6 +425,9 @@
       "symbol": "sgGOLD",
       "companies": [
         "solum"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -363,6 +439,9 @@
       "symbol": "sgUSD",
       "companies": [
         "solum"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -372,7 +451,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg",
       "name": "Binance-Peg USD Coin",
       "symbol": "USDC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x55d398326f99059fF775485246999027B3197955",
@@ -381,7 +463,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg",
       "name": "Tether USD",
       "symbol": "USDT",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -390,7 +475,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg",
       "name": "Wrapped BNB",
       "symbol": "WBNB",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
@@ -399,7 +487,10 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png",
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
@@ -408,7 +499,10 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png",
       "name": "USDT Token",
       "symbol": "USDT",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
@@ -417,7 +511,10 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
       "name": "WBNB Token",
       "symbol": "WBNB",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
@@ -427,8 +524,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -439,8 +538,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -451,8 +552,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -463,8 +566,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -475,8 +580,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -487,8 +594,10 @@
       "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -498,7 +607,10 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
       "name": "USD Coin",
       "symbol": "USDC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x4E2692eb2b3D7f63ecab57d3b03e64e876F4c6Ab",
@@ -507,7 +619,10 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC Coin",
       "symbol": "USDC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -516,7 +631,10 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
       "name": "WMATIC",
       "symbol": "WMATIC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x735fa792e731a2e8f83f32eb539841b7b72e6d8f",
@@ -525,7 +643,10 @@
       "logoURI": "https://cdn-icons-png.flaticon.com/512/6681/6681925.png",
       "name": "Your stablecoin",
       "symbol": "Your stablecoin",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x4b9A3d1647BcfF64A8B08B0fCDcfA9c2aF5eaafE",
@@ -535,8 +656,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -547,8 +670,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -559,8 +684,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -571,8 +698,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -583,8 +712,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -596,6 +727,9 @@
       "symbol": "LFLX",
       "companies": [
         "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -606,8 +740,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -618,8 +754,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -630,8 +768,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -642,8 +782,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -654,8 +796,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -666,8 +810,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -678,8 +824,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -690,8 +838,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -702,8 +852,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -714,8 +866,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -727,6 +881,9 @@
       "symbol": "sgGOLD",
       "companies": [
         "solum"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -738,6 +895,9 @@
       "symbol": "sgUSD",
       "companies": [
         "solum"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -748,8 +908,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -760,8 +922,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -772,8 +936,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -784,8 +950,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -796,8 +964,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -808,8 +978,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -820,8 +992,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -832,8 +1006,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -844,8 +1020,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -856,8 +1034,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -868,8 +1048,10 @@
       "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -879,7 +1061,10 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC Coin",
       "symbol": "USDC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
@@ -888,7 +1073,10 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC Coin",
       "symbol": "USDC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x3E11bDdcc6b5a031E988cd4ABDccD2ee485fC0a7",
@@ -898,8 +1086,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -910,8 +1100,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -922,8 +1114,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -934,8 +1128,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -946,8 +1142,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -958,8 +1156,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -970,8 +1170,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -982,8 +1184,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -994,8 +1198,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1006,8 +1212,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1018,8 +1226,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1030,8 +1240,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1042,8 +1254,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1054,8 +1268,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1066,8 +1282,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1078,8 +1296,10 @@
       "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1089,7 +1309,10 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC.e",
       "symbol": "USDC.e",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x26a9Bd6c765aAe586A32A1cb0Ad35Cc2C7e905c2",
@@ -1098,7 +1321,10 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "Axelar USDC",
       "symbol": "axlUSDC",
-      "companies": []
+      "companies": [],
+      "supportedRouterVersions": [
+        2
+      ]
     },
     {
       "address": "0x7378fd98083ef6d66d73c04a72ce6ff8a3b05eea",
@@ -1108,8 +1334,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1120,8 +1348,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1132,8 +1362,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1144,8 +1376,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1156,8 +1390,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1168,8 +1404,10 @@
       "name": "aryze",
       "symbol": "RYZE",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1180,8 +1418,10 @@
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1192,8 +1432,10 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1204,8 +1446,10 @@
       "name": "ARYZE eGOLD",
       "symbol": "eGOLD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1216,8 +1460,10 @@
       "name": "ARYZE eSGD",
       "symbol": "eSGD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     },
     {
@@ -1228,8 +1474,10 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "companies": [
-        "aryze",
-        "devops"
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
       ]
     }
   ]

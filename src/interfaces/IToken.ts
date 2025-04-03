@@ -6,4 +6,6 @@ export interface IToken {
   name: string;
   symbol: string;
   companies: string[];
+  supportedRouterVersions: number[];
+  _comment?: string;
 }
