@@ -324,6 +324,18 @@ export const TOKENS_DEV: IToken[] = [
     supportedRouterVersions: [2]
   },
   {
+    address: '0xa9c69171f64170d2c34299852B0065C415Cf2aA7',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://cdn-icons-png.flaticon.com/512/6539/6539278.png',
+    name: 'LemonFlixDemo',
+    symbol: 'LFLX',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [2]
+  },
+  {
+    _comment:
+      'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
     address: '0x3c2083c30f49427b820fDd1B0D7dF6FDD82b6ABB',
     chainId: 80002,
     decimals: 0,

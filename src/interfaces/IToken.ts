@@ -7,4 +7,5 @@ export interface IToken {
   symbol: string;
   companies: string[];
   supportedRouterVersions: number[];
+  _comment?: string;
 }

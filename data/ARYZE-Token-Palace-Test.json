@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-02-17T15:13:01.201Z",
+  "timestamp": "2025-03-11T15:36:27.069Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 37
+    "patch": 43
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -323,6 +323,21 @@
       ]
     },
     {
+      "address": "0xa9c69171f64170d2c34299852B0065C415Cf2aA7",
+      "chainId": 80002,
+      "decimals": 18,
+      "logoURI": "https://cdn-icons-png.flaticon.com/512/6539/6539278.png",
+      "name": "LemonFlixDemo",
+      "symbol": "LFLX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        2
+      ]
+    },
+    {
+      "_comment": "test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge",
       "address": "0x3c2083c30f49427b820fDd1B0D7dF6FDD82b6ABB",
       "chainId": 80002,
       "decimals": 0,

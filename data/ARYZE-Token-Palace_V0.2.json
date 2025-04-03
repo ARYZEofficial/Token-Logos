@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-02-17T15:13:01.203Z",
+  "timestamp": "2025-03-11T15:36:27.070Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 59
+    "patch": 65
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -115,7 +115,7 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
         "aryze"
@@ -389,11 +389,25 @@
       ]
     },
     {
+      "address": "0x0D1F7CDa608507de0330647ef02356Baba10085C",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/main/networks/lemonchain.png",
+      "name": "LemonFlixDemo",
+      "symbol": "LFLX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        2
+      ]
+    },
+    {
       "address": "0x7712da72127d5dd213b621497d6e4899d5989e5c",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
         "aryze"
@@ -577,7 +591,7 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
         "aryze"
@@ -699,6 +713,20 @@
       "symbol": "eUSD",
       "companies": [
         "aryze"
+      ],
+      "supportedRouterVersions": [
+        2
+      ]
+    },
+    {
+      "address": "0x27f9AA6514AbE41c2FAD54e5d3dFF321fCbE50B6",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/main/networks/lemonchain.png",
+      "name": "LemonFlixDemo",
+      "symbol": "LFLX",
+      "companies": [
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         2
@@ -1017,7 +1045,7 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
         "aryze"
@@ -1265,7 +1293,7 @@
       "chainId": 59144,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
         "aryze"
@@ -1373,7 +1401,7 @@
       "chainId": 81457,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/new_logos/Aryze.png",
-      "name": "Aryze",
+      "name": "aryze",
       "symbol": "RYZE",
       "companies": [
         "aryze"
