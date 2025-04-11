@@ -349,8 +349,8 @@ export const TOKENS_DEV: IToken[] = [
     chainId: 80002,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
-    name: 'POL',
-    symbol: 'POL',
+    name: 'LEMX',
+    symbol: 'LEMX',
     companies: [],
     supportedRouterVersions: [3]
   },

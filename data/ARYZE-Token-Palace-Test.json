@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-04-11T13:36:58.118Z",
+  "timestamp": "2025-04-11T14:11:07.530Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 52
+    "patch": 53
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -374,6 +374,18 @@
       ]
     },
     {
+      "address": "0x0000000000000000000000000000000000000000",
+      "chainId": 80002,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png",
+      "name": "LEMX",
+      "symbol": "LEMX",
+      "companies": [],
+      "supportedRouterVersions": [
+        3
+      ]
+    },
+    {
       "address": "0xa9c69171f64170d2c34299852B0065C415Cf2aA7",
       "chainId": 80002,
       "decimals": 18,
@@ -398,18 +410,6 @@
       "companies": [
         "aryze"
       ],
-      "supportedRouterVersions": [
-        3
-      ]
-    },
-    {
-      "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 80002,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png",
-      "name": "POL",
-      "symbol": "POL",
-      "companies": [],
       "supportedRouterVersions": [
         3
       ]
