@@ -343,6 +343,47 @@ export const TOKENS_DEV: IToken[] = [
     companies: ['whizgrid'],
     supportedRouterVersions: [3]
   },
+
+  {
+    address: '0x0000000000000000000000000000000000000000',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
+    name: 'POL',
+    symbol: 'POL',
+    companies: [],
+    supportedRouterVersions: [3]
+  },
+  {
+    address: '0x0000000000000000000000000000000000000000',
+    chainId: 137,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
+    name: 'POL',
+    symbol: 'POL',
+    companies: [],
+    supportedRouterVersions: [3]
+  },
+  {
+    address: '0x0000000000000000000000000000000000000000',
+    chainId: 1006,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
+    name: 'LEMX',
+    symbol: 'LEMX',
+    companies: [],
+    supportedRouterVersions: [3]
+  },
+  {
+    address: '0x0000000000000000000000000000000000000000',
+    chainId: 56,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/bnb.png',
+    name: 'BNB',
+    symbol: 'BNB',
+    companies: [],
+    supportedRouterVersions: [3]
+  },
   {
     _comment:
       'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
