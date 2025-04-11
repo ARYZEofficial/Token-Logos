@@ -334,7 +334,7 @@ export const TOKENS_DEV: IToken[] = [
     supportedRouterVersions: [2]
   },
   {
-    address: '0x6641A9E4e2A51b5D7e54413a486C0aF236a34a05',
+    address: '0xF314C15E3679d681deBd7cCbe998B7998Dec4923',
     chainId: 80002,
     decimals: 18,
     logoURI: 'https://cdn-icons-png.flaticon.com/512/6539/6539278.png',

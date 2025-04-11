@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-04-11T09:52:43.010Z",
+  "timestamp": "2025-04-11T10:30:52.174Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 50
+    "patch": 51
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "address": "0x6641A9E4e2A51b5D7e54413a486C0aF236a34a05",
+      "address": "0xF314C15E3679d681deBd7cCbe998B7998Dec4923",
       "chainId": 80002,
       "decimals": 18,
       "logoURI": "https://cdn-icons-png.flaticon.com/512/6539/6539278.png",
