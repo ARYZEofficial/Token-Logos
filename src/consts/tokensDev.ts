@@ -334,6 +334,16 @@ export const TOKENS_DEV: IToken[] = [
     supportedRouterVersions: [2]
   },
   {
+    address: '0x8A66Fb1382853cCeBd2941678Aa555Afa31311cA',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://cdn-icons-png.flaticon.com/512/6539/6539278.png',
+    name: 'WLEMX',
+    symbol: 'WLEMX',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [3]
+  },
+  {
     _comment:
       'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
     address: '0x3c2083c30f49427b820fDd1B0D7dF6FDD82b6ABB',

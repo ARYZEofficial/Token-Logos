@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-04-03T12:45:14.154Z",
+  "timestamp": "2025-04-09T15:05:53.981Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 48
+    "patch": 49
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -446,6 +446,20 @@
       "companies": [],
       "supportedRouterVersions": [
         2
+      ]
+    },
+    {
+      "address": "0x8A66Fb1382853cCeBd2941678Aa555Afa31311cA",
+      "chainId": 80002,
+      "decimals": 18,
+      "logoURI": "https://cdn-icons-png.flaticon.com/512/6539/6539278.png",
+      "name": "WLEMX",
+      "symbol": "WLEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
       ]
     },
     {
