@@ -1165,7 +1165,7 @@ export const TOKENS: IToken[] = [
   },
   {
     address: '0x2Da91257961b87e69Fa13b2e20931D517dc97597',
-    chainId: 1006,
+    chainId: 56,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
     name: 'LEMX',
