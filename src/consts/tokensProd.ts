@@ -1151,5 +1151,15 @@ export const TOKENS: IToken[] = [
     symbol: 'BNB',
     companies: [],
     supportedRouterVersions: [3]
+  },
+  {
+    address: '0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2',
+    chainId: 1006,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
+    name: 'WLEMX',
+    symbol: 'WLEMX',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [3]
   }
 ];
