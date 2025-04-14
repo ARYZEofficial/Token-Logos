@@ -1161,5 +1161,25 @@ export const TOKENS: IToken[] = [
     symbol: 'WLEMX',
     companies: ['whizgrid'],
     supportedRouterVersions: [3]
+  },
+  {
+    address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41',
+    chainId: 1006,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
+    name: 'WLEMX',
+    symbol: 'WLEMX',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [3]
+  },
+  {
+    address: '0x2Da91257961b87e69Fa13b2e20931D517dc97597',
+    chainId: 1006,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
+    name: 'WLEMX',
+    symbol: 'WLEMX',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [3]
   }
 ];

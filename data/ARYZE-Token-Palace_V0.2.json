@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-04-11T15:18:22.050Z",
+  "timestamp": "2025-04-14T13:42:04.558Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 76
+    "patch": 77
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -770,6 +770,34 @@
     },
     {
       "address": "0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
+      "name": "WLEMX",
+      "symbol": "WLEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ]
+    },
+    {
+      "address": "0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
+      "name": "WLEMX",
+      "symbol": "WLEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ]
+    },
+    {
+      "address": "0x2Da91257961b87e69Fa13b2e20931D517dc97597",
       "chainId": 1006,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
