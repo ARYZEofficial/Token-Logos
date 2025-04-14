@@ -1154,7 +1154,7 @@ export const TOKENS: IToken[] = [
   },
   {
     address: '0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2',
-    chainId: 1006,
+    chainId: 56,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
     name: 'WLEMX',
@@ -1164,7 +1164,7 @@ export const TOKENS: IToken[] = [
   },
   {
     address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41',
-    chainId: 1006,
+    chainId: 56,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
     name: 'WLEMX',
