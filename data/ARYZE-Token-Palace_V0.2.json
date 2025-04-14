@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-04-14T15:06:04.697Z",
+  "timestamp": "2025-04-14T15:27:50.563Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 81
+    "patch": 82
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -398,20 +398,6 @@
       ],
       "supportedRouterVersions": [
         2
-      ]
-    },
-    {
-      "address": "0x2Da91257961b87e69Fa13b2e20931D517dc97597",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
-      "name": "LEMX",
-      "symbol": "LEMX",
-      "companies": [
-        "whizgrid"
-      ],
-      "supportedRouterVersions": [
-        3
       ]
     },
     {
