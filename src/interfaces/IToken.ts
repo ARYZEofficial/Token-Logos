@@ -8,5 +8,6 @@ export interface IToken {
   companies: string[];
   supportedRouterVersions: number[];
   type: 'erc20' | 'erc721' | 'erc1155';
+  isActive: boolean;
   _comment?: string;
 }
