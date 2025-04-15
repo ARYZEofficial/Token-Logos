@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-04-14T15:27:50.563Z",
+  "timestamp": "2025-04-14T15:33:21.985Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 82
+    "patch": 83
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -401,6 +401,20 @@
       ]
     },
     {
+      "address": "0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
+      "name": "LEMX",
+      "symbol": "LEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ]
+    },
+    {
       "address": "0x0D1F7CDa608507de0330647ef02356Baba10085C",
       "chainId": 56,
       "decimals": 18,
@@ -490,20 +504,6 @@
       "companies": [],
       "supportedRouterVersions": [
         2
-      ]
-    },
-    {
-      "address": "0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
-      "name": "WLEMX",
-      "symbol": "WLEMX",
-      "companies": [
-        "whizgrid"
-      ],
-      "supportedRouterVersions": [
-        3
       ]
     },
     {
@@ -769,6 +769,20 @@
       ]
     },
     {
+      "address": "0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
+      "name": "LEMX",
+      "symbol": "LEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ]
+    },
+    {
       "address": "0x27f9AA6514AbE41c2FAD54e5d3dFF321fCbE50B6",
       "chainId": 1006,
       "decimals": 18,
@@ -780,20 +794,6 @@
       ],
       "supportedRouterVersions": [
         2
-      ]
-    },
-    {
-      "address": "0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2",
-      "chainId": 1006,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
-      "name": "WLEMX",
-      "symbol": "WLEMX",
-      "companies": [
-        "whizgrid"
-      ],
-      "supportedRouterVersions": [
-        3
       ]
     },
     {
