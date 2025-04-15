@@ -450,7 +450,7 @@ export const TOKENS: IToken[] = [
     companies: [],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x6681E81647D64ee2c71c2804D327a9b20b436318',

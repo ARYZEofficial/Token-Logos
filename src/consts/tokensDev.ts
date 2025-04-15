@@ -1,8 +1,5 @@
 import {IToken} from '../interfaces/IToken';
 
-/**
- * @deprecated - use tokensProd.ts instead
- */
 export const TOKENS_DEV: IToken[] = [
   {
     address: '0x4a7aaac996af8d5ac89197418337a8eaafafd2bc',
@@ -38,7 +35,7 @@ export const TOKENS_DEV: IToken[] = [
     companies: [],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x4720Db7a9DE18C9addF769D542F241910aF86cb2',
@@ -50,7 +47,7 @@ export const TOKENS_DEV: IToken[] = [
     companies: [],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x8528fe83df84DC89d3297738E8B759A1C98FCEf0',
@@ -62,7 +59,7 @@ export const TOKENS_DEV: IToken[] = [
     companies: [],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0xe5287e2265ef9b410261214357632457362d0aab',
@@ -74,7 +71,7 @@ export const TOKENS_DEV: IToken[] = [
     companies: [],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x57e96cd9bf18d41109027e625264c6a34e636276',
@@ -86,7 +83,7 @@ export const TOKENS_DEV: IToken[] = [
     companies: [],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x5E5c7feFB51332DEfc6BD895F7395278e5991FE6',
@@ -98,7 +95,7 @@ export const TOKENS_DEV: IToken[] = [
     companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x153aa5089aeec67a3de79685d7d8b49b487068fc',
@@ -110,7 +107,7 @@ export const TOKENS_DEV: IToken[] = [
     companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x035dDaeE2b88c2842f94DAfd77eA83BF79c7d348',
@@ -148,66 +145,66 @@ export const TOKENS_DEV: IToken[] = [
     type: 'erc20',
     isActive: true
   },
-  {
-    address: '0x4a631e9117133c5f87fd9c051FE67E4f90575faB',
-    chainId: 5,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png',
-    name: 'ARYZE eUSD',
-    symbol: 'eUSD',
-    companies: ['aryze'],
-    supportedRouterVersions: [2],
-    type: 'erc20',
-    isActive: true
-  },
-  {
-    address: '0x4F64B762Ce2B76E77595C502E028a6eb570dDB2A',
-    chainId: 5,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png',
-    name: 'ARYZE eGBP',
-    symbol: 'eGBP',
-    companies: ['aryze'],
-    supportedRouterVersions: [2],
-    type: 'erc20',
-    isActive: true
-  },
-  {
-    address: '0x3fA9eFFEa5Dfbf68d5Db48FAE322Fe892D3750fF',
-    chainId: 5,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png',
-    name: 'ARYZE eEUR',
-    symbol: 'eEUR',
-    companies: ['aryze'],
-    supportedRouterVersions: [2],
-    type: 'erc20',
-    isActive: true
-  },
-  {
-    address: '0xaB77d4Eb4F6e7ac52dea9A859a36901564C6d02c',
-    chainId: 80001,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png',
-    name: 'ARYZE eUSD',
-    symbol: 'eUSD',
-    companies: ['aryze'],
-    supportedRouterVersions: [2],
-    type: 'erc20',
-    isActive: true
-  },
-  {
-    address: '0x259A8e32765925EFAabde188754Bea0389469083',
-    chainId: 80001,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png',
-    name: 'ARYZE eGBP',
-    symbol: 'eGBP',
-    companies: ['aryze'],
-    supportedRouterVersions: [2],
-    type: 'erc20',
-    isActive: true
-  },
+  // {
+  //   address: '0x4a631e9117133c5f87fd9c051FE67E4f90575faB',
+  //   chainId: 5,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png',
+  //   name: 'ARYZE eUSD',
+  //   symbol: 'eUSD',
+  //   companies: ['aryze'],
+  //   supportedRouterVersions: [2],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
+  // {
+  //   address: '0x4F64B762Ce2B76E77595C502E028a6eb570dDB2A',
+  //   chainId: 5,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png',
+  //   name: 'ARYZE eGBP',
+  //   symbol: 'eGBP',
+  //   companies: ['aryze'],
+  //   supportedRouterVersions: [2],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
+  // {
+  //   address: '0x3fA9eFFEa5Dfbf68d5Db48FAE322Fe892D3750fF',
+  //   chainId: 5,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png',
+  //   name: 'ARYZE eEUR',
+  //   symbol: 'eEUR',
+  //   companies: ['aryze'],
+  //   supportedRouterVersions: [2],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
+  // {
+  //   address: '0xaB77d4Eb4F6e7ac52dea9A859a36901564C6d02c',
+  //   chainId: 80001,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png',
+  //   name: 'ARYZE eUSD',
+  //   symbol: 'eUSD',
+  //   companies: ['aryze'],
+  //   supportedRouterVersions: [2],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
+  // {
+  //   address: '0x259A8e32765925EFAabde188754Bea0389469083',
+  //   chainId: 80001,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eGBP.png',
+  //   name: 'ARYZE eGBP',
+  //   symbol: 'eGBP',
+  //   companies: ['aryze'],
+  //   supportedRouterVersions: [2],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
   {
     address: '0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270',
     chainId: 137,
@@ -218,20 +215,20 @@ export const TOKENS_DEV: IToken[] = [
     companies: [],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
-  {
-    address: '0x3c6af76181891a6f0f438d4d0fC1474F0E8cA9A0',
-    chainId: 80001,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png',
-    name: 'ARYZE eEUR',
-    symbol: 'eEUR',
-    companies: ['aryze'],
-    supportedRouterVersions: [2],
-    type: 'erc20',
-    isActive: true
-  },
+  // {
+  //   address: '0x3c6af76181891a6f0f438d4d0fC1474F0E8cA9A0',
+  //   chainId: 80001,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png',
+  //   name: 'ARYZE eEUR',
+  //   symbol: 'eEUR',
+  //   companies: ['aryze'],
+  //   supportedRouterVersions: [2],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
   {
     address: '0xcb0527a58BEaEE9161Ccd914AA9b7d3A8c858F6C',
     chainId: 80002,
@@ -427,42 +424,42 @@ export const TOKENS_DEV: IToken[] = [
     type: 'erc20',
     isActive: true
   },
-  {
-    address: '0x0000000000000000000000000000000000000000',
-    chainId: 137,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
-    name: 'POL',
-    symbol: 'POL',
-    companies: [],
-    supportedRouterVersions: [3],
-    type: 'erc20',
-    isActive: true
-  },
-  {
-    address: '0x0000000000000000000000000000000000000000',
-    chainId: 1006,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
-    name: 'LEMX',
-    symbol: 'LEMX',
-    companies: [],
-    supportedRouterVersions: [3],
-    type: 'erc20',
-    isActive: true
-  },
-  {
-    address: '0x0000000000000000000000000000000000000000',
-    chainId: 56,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/bnb.png',
-    name: 'BNB',
-    symbol: 'BNB',
-    companies: [],
-    supportedRouterVersions: [3],
-    type: 'erc20',
-    isActive: true
-  },
+  // {
+  //   address: '0x0000000000000000000000000000000000000000',
+  //   chainId: 137,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
+  //   name: 'POL',
+  //   symbol: 'POL',
+  //   companies: [],
+  //   supportedRouterVersions: [3],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
+  // {
+  //   address: '0x0000000000000000000000000000000000000000',
+  //   chainId: 1006,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
+  //   name: 'LEMX',
+  //   symbol: 'LEMX',
+  //   companies: [],
+  //   supportedRouterVersions: [3],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
+  // {
+  //   address: '0x0000000000000000000000000000000000000000',
+  //   chainId: 56,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/bnb.png',
+  //   name: 'BNB',
+  //   symbol: 'BNB',
+  //   companies: [],
+  //   supportedRouterVersions: [3],
+  //   type: 'erc20',
+  //   isActive: true
+  // },
   {
     _comment:
       'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
@@ -520,6 +517,3 @@ export const TOKENS_DEV: IToken[] = [
     isActive: true
   }
 ];
-//
-// THIS IS DEPRECATED , USE tokensProd.ts INSTEAD
-//
