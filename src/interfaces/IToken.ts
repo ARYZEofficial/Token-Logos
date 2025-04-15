@@ -7,5 +7,6 @@ export interface IToken {
   symbol: string;
   companies: string[];
   supportedRouterVersions: number[];
+  type: 'erc20' | 'erc721' | 'erc1155';
   _comment?: string;
 }
