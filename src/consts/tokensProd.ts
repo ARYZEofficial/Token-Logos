@@ -10,7 +10,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x40069c604267641a8add1e6d4bac64362da46ed0',
@@ -20,7 +21,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x89472d443815081b61a566031ae7f33cd1962e88',
@@ -30,7 +32,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1f14cbd88609a1b3f2035a5da4dcbb6ba6f26589',
@@ -40,7 +43,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1f7cbaa1add9ff0804f1b422c1c4cbb609272b01',
@@ -50,7 +54,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   //
   {
@@ -61,7 +66,8 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
@@ -71,7 +77,8 @@ export const TOKENS: IToken[] = [
     name: 'USD Coin',
     symbol: 'USDC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
@@ -81,7 +88,8 @@ export const TOKENS: IToken[] = [
     name: 'Tether USD',
     symbol: 'USDT',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599',
@@ -91,7 +99,8 @@ export const TOKENS: IToken[] = [
     name: 'Wrapped Bitcoin',
     symbol: 'WBTC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
@@ -101,7 +110,8 @@ export const TOKENS: IToken[] = [
     name: 'Wrapped Ether',
     symbol: 'WETH',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x6B175474E89094C44Da98b954EedeAC495271d0F',
@@ -111,7 +121,8 @@ export const TOKENS: IToken[] = [
     name: 'Dai Stablecoin',
     symbol: 'DAI',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xD711D7D893de57dc13Ff465763218770Bd42DB1D',
@@ -121,7 +132,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x735fa792e731a2e8F83F32eb539841b7B72e6d8f',
@@ -131,7 +143,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xa4335da338ec4C07C391Fc1A9bF75F306adadc08',
@@ -141,7 +154,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x58A849E1f3c7044bB317DB4611269c352c53d399',
@@ -151,7 +165,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x4Fabb145d64652a948d72533023f6E7A623C7C53',
@@ -161,7 +176,8 @@ export const TOKENS: IToken[] = [
     name: 'Binance USD',
     symbol: 'BUSD',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xA7DfBA2DFd3aD9Bc0a30D69db439957e92Daf1Bc',
@@ -171,7 +187,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x58A849E1f3c7044bB317DB4611269c352c53d399',
@@ -181,7 +198,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
@@ -192,7 +210,8 @@ export const TOKENS: IToken[] = [
     name: 'BUSD Token',
     symbol: 'BUSD',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xD711D7D893de57dc13Ff465763218770Bd42DB1D',
@@ -202,7 +221,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xa4335da338ec4C07C391Fc1A9bF75F306adadc08',
@@ -212,7 +232,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x735fa792e731a2e8F83F32eb539841b7B72e6d8f',
@@ -222,7 +243,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x7712da72127d5dd213b621497d6e4899d5989e5c',
@@ -232,7 +254,8 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d',
@@ -243,7 +266,8 @@ export const TOKENS: IToken[] = [
     name: 'Binance-Peg USD Coin',
     symbol: 'USDC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x55d398326f99059fF775485246999027B3197955',
@@ -254,7 +278,8 @@ export const TOKENS: IToken[] = [
     name: 'Tether USD',
     symbol: 'USDT',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3',
@@ -265,7 +290,8 @@ export const TOKENS: IToken[] = [
     name: 'Dai Token',
     symbol: 'DAI',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c',
@@ -276,7 +302,8 @@ export const TOKENS: IToken[] = [
     name: 'BTCB Token',
     symbol: 'BTCB',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x2574646118b5694fAAfCB9dCbfDfc1206c9B6936',
@@ -286,7 +313,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
@@ -297,7 +325,8 @@ export const TOKENS: IToken[] = [
     name: 'Wrapped BNB',
     symbol: 'WBNB',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x337610d27c682E347C9cD60BD4b3b107C9d34dDd',
@@ -307,7 +336,8 @@ export const TOKENS: IToken[] = [
     name: 'USDT Token',
     symbol: 'USDT',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
@@ -317,7 +347,8 @@ export const TOKENS: IToken[] = [
     name: 'WBNB Token',
     symbol: 'WBNB',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee',
@@ -327,7 +358,8 @@ export const TOKENS: IToken[] = [
     name: 'BUSD Token',
     symbol: 'BUSD',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x44e3ae622c1570dc6e492adb8de92d01ca923d26',
@@ -337,7 +369,8 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x735fa792e731a2e8F83F32eb539841b7B72e6d8f',
@@ -347,7 +380,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xa4335da338ec4C07C391Fc1A9bF75F306adadc08',
@@ -357,7 +391,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xD711D7D893de57dc13Ff465763218770Bd42DB1D',
@@ -367,7 +402,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x58A849E1f3c7044bB317DB4611269c352c53d399',
@@ -377,7 +413,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x3c499c542cef5e3811e1192ce70d8cc03d5c3359',
@@ -387,7 +424,8 @@ export const TOKENS: IToken[] = [
     name: 'USD Coin',
     symbol: 'USDC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270',
@@ -397,7 +435,8 @@ export const TOKENS: IToken[] = [
     name: 'WMATIC',
     symbol: 'WMATIC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x30A26Be88D4CADBfb797390097518Df52a756116',
@@ -407,7 +446,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x4E2692eb2b3D7f63ecab57d3b03e64e876F4c6Ab',
@@ -417,7 +457,8 @@ export const TOKENS: IToken[] = [
     name: 'USDC Coin',
     symbol: 'USDC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x6681E81647D64ee2c71c2804D327a9b20b436318',
@@ -427,7 +468,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x50B66DB86cbE4F73C9A3230fB839Bf07897fCFC0',
@@ -437,7 +479,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF',
@@ -447,7 +490,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xDFaA3212a43088c9727b4C5e8f37E79C23De9f6b',
@@ -457,7 +501,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x34c6F26b8bc88C6A8FE8119E3C0C56B63D9BcBBe',
@@ -467,7 +512,8 @@ export const TOKENS: IToken[] = [
     name: 'USDC.e',
     symbol: 'USDC.e',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067',
@@ -477,7 +523,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x7378fd98083ef6d66d73c04a72ce6ff8a3b05eea',
@@ -487,7 +534,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xb7150937228c6d02ad32c27ce1aa01bde93a0cbd',
@@ -497,7 +545,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xa29c3072639f96ba797ec563820e4b0d7b08a574',
@@ -507,7 +556,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x77fd9a4b71f2f0dd4a8db4b12aeb2b283a09e50f',
@@ -517,7 +567,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x3a07dDF80CBB3b886d8e0370ddb47b75153F1c6D',
@@ -527,7 +578,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x26a9Bd6c765aAe586A32A1cb0Ad35Cc2C7e905c2',
@@ -537,7 +589,8 @@ export const TOKENS: IToken[] = [
     name: 'Axelar USDC',
     symbol: 'axlUSDC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x3F33c24A155F6ead6f16203c260f882d4507DaCc',
@@ -547,7 +600,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xdc700d7E8E541fc719609C74e737CB45aaAF4780',
@@ -557,7 +611,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xB7150937228C6d02ad32c27CE1AA01Bde93a0cBd',
@@ -567,7 +622,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xD79B606805408661f633c09fD50b1bCA5b4CE1a2',
@@ -577,7 +633,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x6099F4CFeAcb9be8d5c3435Da0Ba2853Cd5188E4',
@@ -587,7 +644,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x4b9A3d1647BcfF64A8B08B0fCDcfA9c2aF5eaafE',
@@ -597,7 +655,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xde73288f88BC4fabf9bCE114E29532D407b01309',
@@ -607,7 +666,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xDE09E4124094207057f17b0505b1A46549D8d78a',
@@ -617,7 +677,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x35C16A8f49F3A296d1d252B5473e6e1d4216eD80',
@@ -627,7 +688,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x04375dF5f7f514e4c38D2D84D45fcEA0D4BA7F0f',
@@ -637,7 +699,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x77fD9A4B71F2f0Dd4a8db4b12AeB2b283a09e50F',
@@ -647,7 +710,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x4482a6D2A1c950f1C88191a4cbFd0B83a22D7cff',
@@ -657,7 +721,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x3F33c24A155F6ead6f16203c260f882d4507DaCc',
@@ -667,7 +732,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067',
@@ -677,7 +743,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x99f775945e46Da5d443246FAd7BC317993ee1B1a',
@@ -687,7 +754,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x3E11bDdcc6b5a031E988cd4ABDccD2ee485fC0a7',
@@ -697,7 +765,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x40069C604267641a8adD1e6d4bAC64362dA46ED0',
@@ -707,7 +776,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1f14cBd88609A1b3F2035a5dA4DCBB6Ba6f26589',
@@ -717,7 +787,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1f7CbAA1Add9ff0804F1b422c1C4cBb609272b01',
@@ -727,7 +798,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x34c6F26b8bc88C6A8FE8119E3C0C56B63D9BcBBe',
@@ -737,7 +809,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xB7150937228C6d02ad32c27CE1AA01Bde93a0cBd',
@@ -747,7 +820,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x4482a6D2A1c950f1C88191a4cbFd0B83a22D7cff',
@@ -757,7 +831,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067',
@@ -767,7 +842,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x99f775945e46Da5d443246FAd7BC317993ee1B1a',
@@ -777,7 +853,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x77fD9A4B71F2f0Dd4a8db4b12AeB2b283a09e50F',
@@ -787,7 +864,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
 
   {
@@ -798,7 +876,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x40069C604267641a8adD1e6d4bAC64362dA46ED0',
@@ -808,7 +887,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1f14cBd88609A1b3F2035a5dA4DCBB6Ba6f26589',
@@ -818,7 +898,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1f7CbAA1Add9ff0804F1b422c1C4cBb609272b01',
@@ -828,7 +909,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x34c6F26b8bc88C6A8FE8119E3C0C56B63D9BcBBe',
@@ -838,7 +920,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
 
   {
@@ -849,7 +932,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1f7CbAA1Add9ff0804F1b422c1C4cBb609272b01',
@@ -859,7 +943,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x5ec2742cB1C7A576c8afef47cFFAF1A5194E9F3E',
@@ -869,7 +954,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x89472D443815081B61a566031ae7f33cd1962e88',
@@ -879,7 +965,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x1f14cBd88609A1b3F2035a5dA4DCBB6Ba6f26589',
@@ -889,7 +976,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x77fD9A4B71F2f0Dd4a8db4b12AeB2b283a09e50F',
@@ -899,7 +987,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x4482a6D2A1c950f1C88191a4cbFd0B83a22D7cff',
@@ -909,7 +998,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGBP',
     symbol: 'eGBP',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x5ec2742cB1C7A576c8afef47cFFAF1A5194E9F3E',
@@ -919,7 +1009,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eUSD',
     symbol: 'eUSD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x89472D443815081B61a566031ae7f33cd1962e88',
@@ -929,7 +1020,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eSGD',
     symbol: 'eSGD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x99f775945e46Da5d443246FAd7BC317993ee1B1a',
@@ -939,7 +1031,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE eGOLD',
     symbol: 'eGOLD',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x7712da72127d5dd213b621497d6e4899d5989e5c',
@@ -949,7 +1042,8 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8',
@@ -959,7 +1053,8 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x735fa792e731a2e8f83f32eb539841b7b72e6d8f',
@@ -969,7 +1064,8 @@ export const TOKENS: IToken[] = [
     name: 'Your stablecoin',
     symbol: 'Your stablecoin',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x735fa792e731a2e8f83f32eb539841b7b72e6d8f',
@@ -979,7 +1075,8 @@ export const TOKENS: IToken[] = [
     name: 'Your stablecoin',
     symbol: 'Your stablecoin',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xffb9330a2bec43a23c46c83d4f4c0a6bb449f353',
@@ -989,7 +1086,8 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   ///SOLUM
   {
@@ -1001,7 +1099,8 @@ export const TOKENS: IToken[] = [
     name: 'Solum Gold',
     symbol: 'sgGOLD',
     companies: ['solum'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x2510783d391a438a99e65fd7067ae0c8c534f2e4',
@@ -1012,7 +1111,8 @@ export const TOKENS: IToken[] = [
     name: 'Solum Gold',
     symbol: 'sgGOLD',
     companies: ['solum'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xf5aebda4fd88f7dca16e6236d23801e973a847e7',
@@ -1023,7 +1123,8 @@ export const TOKENS: IToken[] = [
     name: 'Solum Gold',
     symbol: 'sgGOLD',
     companies: ['solum'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xe5c7e29a2bbad0c6c1b68cbd9ab0cf6837f02d7c',
@@ -1034,7 +1135,8 @@ export const TOKENS: IToken[] = [
     name: 'Solum Dollar',
     symbol: 'sgUSD',
     companies: ['solum'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xb11aba4e4df5f9f06b12907ea57a2ad3d052b346',
@@ -1045,7 +1147,8 @@ export const TOKENS: IToken[] = [
     name: 'Solum Dollar',
     symbol: 'sgUSD',
     companies: ['solum'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xd79b606805408661f633c09fd50b1bca5b4ce1a2',
@@ -1056,7 +1159,8 @@ export const TOKENS: IToken[] = [
     name: 'Solum Dollar',
     symbol: 'sgUSD',
     companies: ['solum'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x44e3ae622c1570dc6e492adb8de92d01ca923d26',
@@ -1066,7 +1170,8 @@ export const TOKENS: IToken[] = [
     name: 'USDC Coin',
     symbol: 'USDC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0xaf88d065e77c8cc2239327c5edb3a432268e5831',
@@ -1076,7 +1181,8 @@ export const TOKENS: IToken[] = [
     name: 'USDC Coin',
     symbol: 'USDC',
     companies: [],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x27f9AA6514AbE41c2FAD54e5d3dFF321fCbE50B6',
@@ -1086,7 +1192,8 @@ export const TOKENS: IToken[] = [
     name: 'LemonFlixDemo',
     symbol: 'LFLX',
     companies: ['whizgrid'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     address: '0x0D1F7CDa608507de0330647ef02356Baba10085C',
@@ -1096,7 +1203,8 @@ export const TOKENS: IToken[] = [
     name: 'LemonFlixDemo',
     symbol: 'LFLX',
     companies: ['whizgrid'],
-    supportedRouterVersions: [2]
+    supportedRouterVersions: [2],
+    type: 'erc20'
   },
   {
     _comment:
@@ -1108,7 +1216,8 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE NFT',
     symbol: 'NFT',
     companies: ['aryze'],
-    supportedRouterVersions: [3]
+    supportedRouterVersions: [3],
+    type: 'erc20'
   },
   {
     _comment:
@@ -1120,38 +1229,42 @@ export const TOKENS: IToken[] = [
     name: 'ARYZE ERC20',
     symbol: 'ERC20',
     companies: ['aryze'],
-    supportedRouterVersions: [3]
+    supportedRouterVersions: [3],
+    type: 'erc20'
   },
-  {
-    address: '0x0000000000000000000000000000000000000000',
-    chainId: 137,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
-    name: 'POL',
-    symbol: 'POL',
-    companies: [],
-    supportedRouterVersions: [3]
-  },
-  {
-    address: '0x0000000000000000000000000000000000000000',
-    chainId: 1006,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
-    name: 'LEMX',
-    symbol: 'LEMX',
-    companies: [],
-    supportedRouterVersions: [3]
-  },
-  {
-    address: '0x0000000000000000000000000000000000000000',
-    chainId: 56,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/bnb.png',
-    name: 'BNB',
-    symbol: 'BNB',
-    companies: [],
-    supportedRouterVersions: [3]
-  },
+  // {
+  //   address: '0x0000000000000000000000000000000000000000',
+  //   chainId: 137,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
+  //   name: 'POL',
+  //   symbol: 'POL',
+  //   companies: [],
+  //   supportedRouterVersions: [3],
+  //    type: 'erc20'
+  // },
+  // {
+  //   address: '0x0000000000000000000000000000000000000000',
+  //   chainId: 1006,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
+  //   name: 'LEMX',
+  //   symbol: 'LEMX',
+  //   companies: [],
+  //   supportedRouterVersions: [3],
+  //    type: 'erc20'
+  // },
+  // {
+  //   address: '0x0000000000000000000000000000000000000000',
+  //   chainId: 56,
+  //   decimals: 18,
+  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/bnb.png',
+  //   name: 'BNB',
+  //   symbol: 'BNB',
+  //   companies: [],
+  //   supportedRouterVersions: [3],
+  //    type: 'erc20'
+  // },
   {
     address: '0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2',
     chainId: 1006,
@@ -1160,7 +1273,8 @@ export const TOKENS: IToken[] = [
     name: 'LEMX',
     symbol: 'LEMX',
     companies: ['whizgrid'],
-    supportedRouterVersions: [3]
+    supportedRouterVersions: [3],
+    type: 'erc20'
   },
 
   {
@@ -1171,6 +1285,46 @@ export const TOKENS: IToken[] = [
     name: 'LEMX',
     symbol: 'LEMX',
     companies: ['whizgrid'],
-    supportedRouterVersions: [3]
+    supportedRouterVersions: [3],
+    type: 'erc20'
+  },
+  {
+    _comment:
+      'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0x5e36C7dc4F0d2259bD1C160716F2162DBE0f6974',
+    chainId: 80002,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'WPOL_Minecart',
+    symbol: 'WPOL_Minecart',
+    companies: ['aryze'],
+    supportedRouterVersions: [3],
+    type: 'erc20'
+  },
+  {
+    _comment:
+      'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0xC9A87E3Fd74E5204eA6972D20EFd8CF62a65B923',
+    chainId: 80002,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'eUSD_Minecart',
+    symbol: 'eUSD_Minecart',
+    companies: ['aryze'],
+    supportedRouterVersions: [3],
+    type: 'erc20'
+  },
+  {
+    _comment:
+      'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0x2C1e65514546DDcAab41f6125281380F34692ADb',
+    chainId: 80002,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'ARYZE NFT',
+    symbol: 'NFT',
+    companies: ['aryze'],
+    supportedRouterVersions: [3],
+    type: 'erc721'
   }
 ];
