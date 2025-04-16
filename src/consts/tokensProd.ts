@@ -121,7 +121,7 @@ export const TOKENS: IToken[] = [
     companies: [],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x6B175474E89094C44Da98b954EedeAC495271d0F',
@@ -1381,5 +1381,37 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true
+  },
+  //
+  // LEMON CHAIN NFTs
+  //
+  {
+    _comment: '',
+    address: '0xbcc103445FA4E80AE3dE26f2C0CDA16640582c60',
+    chainId: 56,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'Lemon',
+    symbol: 'LEMX',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [3],
+    type: 'erc721',
+    isActive: true
+  },
+  {
+    _comment: '',
+    address: '0x62D368C156824B7918eED1Ee785658F4DBe199D7',
+    chainId: 1006,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'Lemon',
+    symbol: 'LEMX',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [3],
+    type: 'erc721',
+    isActive: true
   }
+  //
+  //
+  //
 ];
