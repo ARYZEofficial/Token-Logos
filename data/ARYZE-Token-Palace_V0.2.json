@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-04-15T18:15:33.378Z",
+  "timestamp": "2025-04-16T11:21:47.122Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 91
+    "patch": 92
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -309,6 +309,23 @@
       "isActive": false
     },
     {
+      "_comment": "",
+      "address": "0x4c0d330A9c3dcE209Fda603D4F6980574D6CAD19",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "Catfiz",
+      "symbol": "CTFZ",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 56,
       "decimals": 18,
@@ -403,6 +420,40 @@
       "isActive": true
     },
     {
+      "_comment": "",
+      "address": "0x8373A923b77E53b926E0a6eA75baC79971E01716",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemonBank",
+      "symbol": "LBNK",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xa6C3b8D0A450376a1f9DcE41F207F52e3Cb428C4",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemonCrate",
+      "symbol": "LCRT",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
       "address": "0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41",
       "chainId": 56,
       "decimals": 18,
@@ -426,6 +477,91 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
       "name": "Lemon",
       "symbol": "LEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xbd46D51A0493FfDaf69f295C10e575944700E688",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemonFlix",
+      "symbol": "LFLX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x3E60ba23299CBaD7Fa2A61196E2E380e99c4b6bb",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemLotto",
+      "symbol": "LLOT",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x1c5196fE4AA159E975Fc46c5D3b43D324f321290",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemCare",
+      "symbol": "LMED",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xD141aB35a8EA90Ec3741fC5BB739c187EBa1309E",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemPay",
+      "symbol": "LPAY",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xb07Ce7b80fE53f13C115D27b4FfE0eAE62192B08",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemTravel",
+      "symbol": "LTVL",
       "companies": [
         "whizgrid"
       ],
@@ -758,6 +894,57 @@
       "isActive": true
     },
     {
+      "_comment": "",
+      "address": "0xa8ea595B4D871c63c8E4EF4A235acD5373e33364",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "Catfiz",
+      "symbol": "CTFZ",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x1eC86dC89b60FBc1a159ddf00C55bE0d6331dC48",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemonBank",
+      "symbol": "LBNK",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x0BDe9AEA9F67574bC8E5F249072f1c02fe677bea",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemonCrate",
+      "symbol": "LCRT",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
       "address": "0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2",
       "chainId": 1006,
       "decimals": 18,
@@ -781,6 +968,91 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
       "name": "Lemon",
       "symbol": "LEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xfcB003a1d8c6b567c6Fe8D6f8392B8eAF23607Ba",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemonFlix",
+      "symbol": "LFLX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x06097Be3A79cC5e62e3F5BEDeeAbA48f11a5385F",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemLotto",
+      "symbol": "LLOT",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x5F1608913ABf734B9c5B10CaBA824727BF6a58FD",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemCare",
+      "symbol": "LMED",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x6852374b566A28E657469f8583e3DCca2A1Dde35",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemPay",
+      "symbol": "LPAY",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xF5293C0D7B6e7Ae1838B0dE03CFB268763becB98",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "LemTravel",
+      "symbol": "LTVL",
       "companies": [
         "whizgrid"
       ],
