@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-04-15T17:49:06.433Z",
+  "timestamp": "2025-04-15T18:15:33.378Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 90
+    "patch": 91
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -212,7 +212,7 @@
         2
       ],
       "type": "erc20",
-      "isActive": true
+      "isActive": false
     },
     {
       "address": "0x77fD9A4B71F2f0Dd4a8db4b12AeB2b283a09e50F",
@@ -416,6 +416,23 @@
         3
       ],
       "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xbcc103445FA4E80AE3dE26f2C0CDA16640582c60",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "Lemon",
+      "symbol": "LEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
       "isActive": true
     },
     {
@@ -754,6 +771,23 @@
         3
       ],
       "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x62D368C156824B7918eED1Ee785658F4DBe199D7",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "Lemon",
+      "symbol": "LEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
       "isActive": true
     },
     {
