@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-04-22T13:50:05.278Z",
+  "timestamp": "2025-04-22T16:22:35.315Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 94
+    "patch": 96
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -313,7 +313,7 @@
       "address": "0x4c0d330A9c3dcE209Fda603D4F6980574D6CAD19",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/ctfz/CTFZ-square-80x80.png",
       "name": "Catfiz",
       "symbol": "CTFZ",
       "companies": [
@@ -424,7 +424,7 @@
       "address": "0x8373A923b77E53b926E0a6eA75baC79971E01716",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/lbnk/LBNK-square-80x80.png",
       "name": "LemonBank",
       "symbol": "LBNK",
       "companies": [
@@ -441,7 +441,7 @@
       "address": "0xa6C3b8D0A450376a1f9DcE41F207F52e3Cb428C4",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/nfts/lcrt/collection/lcrt-square-80x80.png",
       "name": "LemonCrate",
       "symbol": "LCRT",
       "companies": [
@@ -474,7 +474,7 @@
       "address": "0xbcc103445FA4E80AE3dE26f2C0CDA16640582c60",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/lemx/LEMX-square-80x80.png",
       "name": "Lemon",
       "symbol": "LEMX",
       "companies": [
@@ -491,7 +491,7 @@
       "address": "0xbd46D51A0493FfDaf69f295C10e575944700E688",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/lflx/LFLX-square-80x80.png",
       "name": "LemonFlix",
       "symbol": "LFLX",
       "companies": [
@@ -508,7 +508,7 @@
       "address": "0x3E60ba23299CBaD7Fa2A61196E2E380e99c4b6bb",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/llot/LLOT-square-80x80.png",
       "name": "LemLotto",
       "symbol": "LLOT",
       "companies": [
@@ -525,7 +525,7 @@
       "address": "0x1c5196fE4AA159E975Fc46c5D3b43D324f321290",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/nfts/lmed/collection/LMED-image.png",
       "name": "LemCare",
       "symbol": "LMED",
       "companies": [
@@ -542,7 +542,7 @@
       "address": "0xD141aB35a8EA90Ec3741fC5BB739c187EBa1309E",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/lpay/LPAY-square-80x80.png",
       "name": "LemPay",
       "symbol": "LPAY",
       "companies": [
@@ -559,7 +559,7 @@
       "address": "0xb07Ce7b80fE53f13C115D27b4FfE0eAE62192B08",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/ltvl/LTVL-square-80x80.png",
       "name": "LemTravel",
       "symbol": "LTVL",
       "companies": [
@@ -592,7 +592,7 @@
       "address": "0xeF50C3b7A6de0d006779400e958ACa4360F14e5a",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/scdt/scdt-square-80x80.png",
       "name": "SwapCredit",
       "symbol": "SCDT",
       "companies": [
@@ -915,7 +915,7 @@
       "address": "0xa8ea595B4D871c63c8E4EF4A235acD5373e33364",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/ctfz/CTFZ-square-80x80.png",
       "name": "Catfiz",
       "symbol": "CTFZ",
       "companies": [
@@ -932,7 +932,7 @@
       "address": "0x1eC86dC89b60FBc1a159ddf00C55bE0d6331dC48",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/lbnk/LBNK-square-80x80.png",
       "name": "LemonBank",
       "symbol": "LBNK",
       "companies": [
@@ -949,7 +949,7 @@
       "address": "0x0BDe9AEA9F67574bC8E5F249072f1c02fe677bea",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/nfts/lcrt/collection/lcrt-square-80x80.png",
       "name": "LemonCrate",
       "symbol": "LCRT",
       "companies": [
@@ -982,7 +982,7 @@
       "address": "0x62D368C156824B7918eED1Ee785658F4DBe199D7",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/lemx/LEMX-square-80x80.png",
       "name": "Lemon",
       "symbol": "LEMX",
       "companies": [
@@ -999,7 +999,7 @@
       "address": "0xfcB003a1d8c6b567c6Fe8D6f8392B8eAF23607Ba",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/lflx/LFLX-square-80x80.png",
       "name": "LemonFlix",
       "symbol": "LFLX",
       "companies": [
@@ -1016,7 +1016,7 @@
       "address": "0x06097Be3A79cC5e62e3F5BEDeeAbA48f11a5385F",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/llot/LLOT-square-80x80.png",
       "name": "LemLotto",
       "symbol": "LLOT",
       "companies": [
@@ -1033,7 +1033,7 @@
       "address": "0x5F1608913ABf734B9c5B10CaBA824727BF6a58FD",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/nfts/lmed/collection/LMED-image.png",
       "name": "LemCare",
       "symbol": "LMED",
       "companies": [
@@ -1050,7 +1050,7 @@
       "address": "0x6852374b566A28E657469f8583e3DCca2A1Dde35",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/lpay/LPAY-square-80x80.png",
       "name": "LemPay",
       "symbol": "LPAY",
       "companies": [
@@ -1067,7 +1067,7 @@
       "address": "0xF5293C0D7B6e7Ae1838B0dE03CFB268763becB98",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/ltvl/LTVL-square-80x80.png",
       "name": "LemTravel",
       "symbol": "LTVL",
       "companies": [
@@ -1084,7 +1084,7 @@
       "address": "0xE20E3C6447B024A3FBF22D4803de1D910ADd7776",
       "chainId": 1006,
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "logoURI": "https://assets.allthingslemon.io/tokens/scdt/scdt-square-80x80.png",
       "name": "SwapCredit",
       "symbol": "SCDT",
       "companies": [
