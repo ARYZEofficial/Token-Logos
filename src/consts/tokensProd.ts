@@ -1627,6 +1627,32 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true
+  },
+  {
+    _comment: '',
+    address: '0xeF50C3b7A6de0d006779400e958ACa4360F14e5a',
+    chainId: 56,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'SwapCredit',
+    symbol: 'SCDT',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [3],
+    type: 'erc721',
+    isActive: true
+  },
+  {
+    _comment: '',
+    address: '0xE20E3C6447B024A3FBF22D4803de1D910ADd7776',
+    chainId: 1006,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'SwapCredit',
+    symbol: 'SCDT',
+    companies: ['whizgrid'],
+    supportedRouterVersions: [3],
+    type: 'erc721',
+    isActive: true
   }
   //
   //
