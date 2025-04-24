@@ -1372,7 +1372,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
+    doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
   },
 
   {
@@ -1386,7 +1386,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2'}]
+    doppelgangers: [{chainId: 1006, address: '0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2'}]
   },
   //
   // LEMON CHAIN NFTs
@@ -1404,7 +1404,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0x62D368C156824B7918eED1Ee785658F4DBe199D7'}]
+    doppelgangers: [{chainId: 1006, address: '0x62D368C156824B7918eED1Ee785658F4DBe199D7'}]
   },
   {
     _comment: '',
@@ -1418,7 +1418,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0xbcc103445FA4E80AE3dE26f2C0CDA16640582c60'}]
+    doppelgangers: [{chainId: 56, address: '0xbcc103445FA4E80AE3dE26f2C0CDA16640582c60'}]
   },
   // 2
   {
@@ -1433,7 +1433,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0x0BDe9AEA9F67574bC8E5F249072f1c02fe677bea'}]
+    doppelgangers: [{chainId: 1006, address: '0x0BDe9AEA9F67574bC8E5F249072f1c02fe677bea'}]
   },
   {
     _comment: '',
@@ -1447,7 +1447,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0xa6C3b8D0A450376a1f9DcE41F207F52e3Cb428C4'}]
+    doppelgangers: [{chainId: 56, address: '0xa6C3b8D0A450376a1f9DcE41F207F52e3Cb428C4'}]
   },
   // 3
   {
@@ -1462,7 +1462,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0xfcB003a1d8c6b567c6Fe8D6f8392B8eAF23607Ba'}]
+    doppelgangers: [{chainId: 1006, address: '0xfcB003a1d8c6b567c6Fe8D6f8392B8eAF23607Ba'}]
   },
   {
     _comment: '',
@@ -1476,7 +1476,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0xbd46D51A0493FfDaf69f295C10e575944700E688'}]
+    doppelgangers: [{chainId: 56, address: '0xbd46D51A0493FfDaf69f295C10e575944700E688'}]
   },
   // 4
   {
@@ -1491,7 +1491,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0x6852374b566A28E657469f8583e3DCca2A1Dde35'}]
+    doppelgangers: [{chainId: 1006, address: '0x6852374b566A28E657469f8583e3DCca2A1Dde35'}]
   },
   {
     _comment: '',
@@ -1505,7 +1505,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0xD141aB35a8EA90Ec3741fC5BB739c187EBa1309E'}]
+    doppelgangers: [{chainId: 56, address: '0xD141aB35a8EA90Ec3741fC5BB739c187EBa1309E'}]
   },
   // 5
   {
@@ -1520,7 +1520,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0x1eC86dC89b60FBc1a159ddf00C55bE0d6331dC48'}]
+    doppelgangers: [{chainId: 1006, address: '0x1eC86dC89b60FBc1a159ddf00C55bE0d6331dC48'}]
   },
   {
     _comment: '',
@@ -1534,7 +1534,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0x8373A923b77E53b926E0a6eA75baC79971E01716'}]
+    doppelgangers: [{chainId: 56, address: '0x8373A923b77E53b926E0a6eA75baC79971E01716'}]
   },
   // 6
   {
@@ -1549,7 +1549,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0x06097Be3A79cC5e62e3F5BEDeeAbA48f11a5385F'}]
+    doppelgangers: [{chainId: 1006, address: '0x06097Be3A79cC5e62e3F5BEDeeAbA48f11a5385F'}]
   },
   {
     _comment: '',
@@ -1563,7 +1563,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0x3E60ba23299CBaD7Fa2A61196E2E380e99c4b6bb'}]
+    doppelgangers: [{chainId: 56, address: '0x3E60ba23299CBaD7Fa2A61196E2E380e99c4b6bb'}]
   },
   // 7
   {
@@ -1578,7 +1578,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0x5F1608913ABf734B9c5B10CaBA824727BF6a58FD'}]
+    doppelgangers: [{chainId: 1006, address: '0x5F1608913ABf734B9c5B10CaBA824727BF6a58FD'}]
   },
   {
     _comment: '',
@@ -1592,7 +1592,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0x1c5196fE4AA159E975Fc46c5D3b43D324f321290'}]
+    doppelgangers: [{chainId: 56, address: '0x1c5196fE4AA159E975Fc46c5D3b43D324f321290'}]
   },
   // 8
   {
@@ -1607,7 +1607,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0xF5293C0D7B6e7Ae1838B0dE03CFB268763becB98'}]
+    doppelgangers: [{chainId: 1006, address: '0xF5293C0D7B6e7Ae1838B0dE03CFB268763becB98'}]
   },
   {
     _comment: '',
@@ -1621,7 +1621,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0xb07Ce7b80fE53f13C115D27b4FfE0eAE62192B08'}]
+    doppelgangers: [{chainId: 56, address: '0xb07Ce7b80fE53f13C115D27b4FfE0eAE62192B08'}]
   },
   // 9
   {
@@ -1636,7 +1636,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0xa8ea595B4D871c63c8E4EF4A235acD5373e33364'}]
+    doppelgangers: [{chainId: 1006, address: '0xa8ea595B4D871c63c8E4EF4A235acD5373e33364'}]
   },
   {
     _comment: '',
@@ -1650,7 +1650,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0x4c0d330A9c3dcE209Fda603D4F6980574D6CAD19'}]
+    doppelgangers: [{chainId: 56, address: '0x4c0d330A9c3dcE209Fda603D4F6980574D6CAD19'}]
   },
   {
     _comment: '',
@@ -1664,7 +1664,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 1006, address: '0xE20E3C6447B024A3FBF22D4803de1D910ADd7776'}]
+    doppelgangers: [{chainId: 1006, address: '0xE20E3C6447B024A3FBF22D4803de1D910ADd7776'}]
   },
   {
     _comment: '',
@@ -1678,7 +1678,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true,
-    doppelganger: [{chainId: 56, address: '0xeF50C3b7A6de0d006779400e958ACa4360F14e5a'}]
+    doppelgangers: [{chainId: 56, address: '0xeF50C3b7A6de0d006779400e958ACa4360F14e5a'}]
   }
   //
   //
