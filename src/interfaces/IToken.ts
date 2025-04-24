@@ -10,4 +10,5 @@ export interface IToken {
   type: 'erc20' | 'erc721' | 'erc1155';
   isActive: boolean;
   _comment?: string;
+  doppelganger?: {chainId: number; address: string}[];
 }
