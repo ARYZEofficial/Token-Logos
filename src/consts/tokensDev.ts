@@ -515,5 +515,19 @@ export const TOKENS_DEV: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20',
     isActive: true
+  },
+  {
+    _comment:
+      'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0x96acf5be8381122820e607426f5271fab118e246',
+    chainId: 80002,
+    decimals: 0,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'ARYZE NFT Bundle',
+    symbol: 'NFT Bundle',
+    companies: ['aryze'],
+    supportedRouterVersions: [3],
+    type: 'erc721',
+    isActive: true
   }
 ];
