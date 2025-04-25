@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-04-24T12:41:41.338Z",
+  "timestamp": "2025-04-25T07:41:35.876Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 79
+    "patch": 81
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -344,6 +344,23 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
       "name": "ARYZE NFT",
       "symbol": "NFT",
+      "companies": [
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc721",
+      "isActive": true
+    },
+    {
+      "_comment": "test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge",
+      "address": "0x96acf5be8381122820e607426f5271fab118e246",
+      "chainId": 80002,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png",
+      "name": "ARYZE NFT Bundle",
+      "symbol": "NFT Bundle",
       "companies": [
         "aryze"
       ],
