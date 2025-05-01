@@ -7,7 +7,7 @@ export interface IToken {
   symbol: string;
   companies: string[];
   supportedRouterVersions: number[];
-  type: 'erc20' | 'erc721' | 'erc1155';
+  type: 'erc20' | 'erc721' | 'erc1155' | 'erc20_minecart';
   isActive: boolean;
   _comment?: string;
   doppelgangers?: {chainId: number; address: string}[];
