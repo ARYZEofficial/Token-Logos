@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-05-01T11:23:28.115Z",
+  "timestamp": "2025-05-01T11:25:59.973Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 105
+    "patch": 107
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -675,7 +675,7 @@
       "address": "0xACc1bC3bfeb324F5F4Db6bC683f521eeD354234b",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.allthingslemon.io/tokens/lmed/LMED-image.png",
+      "logoURI": "https://assets.allthingslemon.io/nfts/lmed/collection/LMED-image.png",
       "name": "LMED",
       "symbol": "LMED",
       "companies": [
@@ -1436,7 +1436,7 @@
       "address": "0x2BF65d7364FE8AAa27358AE7bDCd45b9f74900aa",
       "chainId": 1006,
       "decimals": 18,
-      "logoURI": "https://assets.allthingslemon.io/tokens/lmed/LMED-image.png",
+      "logoURI": "https://assets.allthingslemon.io/nfts/lmed/collection/LMED-image.png",
       "name": "LMED",
       "symbol": "LMED",
       "companies": [
