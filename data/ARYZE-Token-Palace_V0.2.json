@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-04-25T07:41:35.877Z",
+  "timestamp": "2025-05-01T11:23:28.115Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 103
+    "patch": 105
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -332,6 +332,23 @@
       ]
     },
     {
+      "_comment": "",
+      "address": "0x9893A6B9726Ca4eD8b1c6F54a153ed1870757621",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/ctfz/CTFZ-square-80x80.png",
+      "name": "CTFZ",
+      "symbol": "CTFZ",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 56,
       "decimals": 18,
@@ -450,6 +467,23 @@
     },
     {
       "_comment": "",
+      "address": "0xd2FBAD1B1Ef1BC0cdd41cDF499386e86D2893c3F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lbnk/LBNK-square-80x80.png",
+      "name": "LBNK",
+      "symbol": "LBNK",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
       "address": "0xa6C3b8D0A450376a1f9DcE41F207F52e3Cb428C4",
       "chainId": 56,
       "decimals": 0,
@@ -541,6 +575,23 @@
     },
     {
       "_comment": "",
+      "address": "0xe002A9e156477D3A293068269bf873899523d701",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lflx/LFLX-square-80x80.png",
+      "name": "LFLX",
+      "symbol": "LFLX",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
       "address": "0x3E60ba23299CBaD7Fa2A61196E2E380e99c4b6bb",
       "chainId": 56,
       "decimals": 0,
@@ -561,6 +612,40 @@
           "address": "0x06097Be3A79cC5e62e3F5BEDeeAbA48f11a5385F"
         }
       ]
+    },
+    {
+      "_comment": "",
+      "address": "0x9F27C3FF6f75Aacb5Dae3d43bfdC82eE6F5c37d9",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://assets.allthingslemon.io/tokens/llot/LLOT-square-80x80.png",
+      "name": "LLOT",
+      "symbol": "LLOT",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xB78cACb11059A86336e89293fF3AB0229153339e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/llux/LLUX-square-80x80.png",
+      "name": "LLUX",
+      "symbol": "LLUX",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "_comment": "",
@@ -587,6 +672,40 @@
     },
     {
       "_comment": "",
+      "address": "0xACc1bC3bfeb324F5F4Db6bC683f521eeD354234b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lmed/LMED-image.png",
+      "name": "LMED",
+      "symbol": "LMED",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xFd7279647A3e8F8F45284260547C1E4ab1611C4a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lmln/LMLN-square-80x80.png",
+      "name": "LMLN",
+      "symbol": "LMLN",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
       "address": "0xD141aB35a8EA90Ec3741fC5BB739c187EBa1309E",
       "chainId": 56,
       "decimals": 0,
@@ -610,6 +729,40 @@
     },
     {
       "_comment": "",
+      "address": "0x76376132ea9Ad03036602Aae7FdBc9400494Ae06",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lpay/LPAY-square-80x80.png",
+      "name": "LPAY",
+      "symbol": "LPAY",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x9245491B1c87b4CF13e96d0a1063D23D5c7056A0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lsqz/LSQZ-square-80x80.png",
+      "name": "LSQZ",
+      "symbol": "LSQZ",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
       "address": "0xb07Ce7b80fE53f13C115D27b4FfE0eAE62192B08",
       "chainId": 56,
       "decimals": 0,
@@ -630,6 +783,23 @@
           "address": "0xF5293C0D7B6e7Ae1838B0dE03CFB268763becB98"
         }
       ]
+    },
+    {
+      "_comment": "",
+      "address": "0x4E150Aa09153a731D4142141fe098E6D0f1aE385",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/ltvl/LTVL-square-80x80.png",
+      "name": "LTVL",
+      "symbol": "LTVL",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "address": "0x7712da72127d5dd213b621497d6e4899d5989e5c",
@@ -729,6 +899,23 @@
       ],
       "type": "erc20",
       "isActive": false
+    },
+    {
+      "_comment": "",
+      "address": "0x8ae5A2A4D44b1Fb3CC5ab0Ec206d62A02BA4068f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "name": "Lemoon USDT",
+      "symbol": "USDT",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1001,6 +1188,23 @@
     },
     {
       "_comment": "",
+      "address": "0x532DA945B9CfF77A4A33C39DE2C013604d49BAad",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/ctfz/CTFZ-square-80x80.png",
+      "name": "CTFZ",
+      "symbol": "CTFZ",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
       "address": "0x1eC86dC89b60FBc1a159ddf00C55bE0d6331dC48",
       "chainId": 1006,
       "decimals": 0,
@@ -1021,6 +1225,23 @@
           "address": "0x8373A923b77E53b926E0a6eA75baC79971E01716"
         }
       ]
+    },
+    {
+      "_comment": "",
+      "address": "0x0269A56Abf50CF6544eb28F830758F7986E1411b",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lbnk/LBNK-square-80x80.png",
+      "name": "LBNK",
+      "symbol": "LBNK",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "_comment": "",
@@ -1115,6 +1336,23 @@
     },
     {
       "_comment": "",
+      "address": "0x4b0Ce02D6D47ac1a75169cE5A67166e5D5b3E00e",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lflx/LFLX-square-80x80.png",
+      "name": "LFLX",
+      "symbol": "LFLX",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
       "address": "0x06097Be3A79cC5e62e3F5BEDeeAbA48f11a5385F",
       "chainId": 1006,
       "decimals": 0,
@@ -1135,6 +1373,40 @@
           "address": "0x3E60ba23299CBaD7Fa2A61196E2E380e99c4b6bb"
         }
       ]
+    },
+    {
+      "_comment": "",
+      "address": "0x5f146a0BA10f0d5B411CFFB4CA3cA9f0F00f1221",
+      "chainId": 1006,
+      "decimals": 0,
+      "logoURI": "https://assets.allthingslemon.io/tokens/llot/LLOT-square-80x80.png",
+      "name": "LLOT",
+      "symbol": "LLOT",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x7F573dBbFf70f1D28d4683Cd4a7Dd58ffFB165DE",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/llux/LLUX-square-80x80.png",
+      "name": "LLUX",
+      "symbol": "LLUX",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "_comment": "",
@@ -1161,6 +1433,40 @@
     },
     {
       "_comment": "",
+      "address": "0x2BF65d7364FE8AAa27358AE7bDCd45b9f74900aa",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lmed/LMED-image.png",
+      "name": "LMED",
+      "symbol": "LMED",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x05c8BdBEAD55C687aa6384006dCB5B76bED4431E",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lmln/LMLN-square-80x80.png",
+      "name": "LMLN",
+      "symbol": "LMLN",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
       "address": "0x6852374b566A28E657469f8583e3DCca2A1Dde35",
       "chainId": 1006,
       "decimals": 0,
@@ -1181,6 +1487,40 @@
           "address": "0xD141aB35a8EA90Ec3741fC5BB739c187EBa1309E"
         }
       ]
+    },
+    {
+      "_comment": "",
+      "address": "0x25a924A70497628Cabbc8c0327363E3e66DAABb2",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lpay/LPAY-square-80x80.png",
+      "name": "LPAY",
+      "symbol": "LPAY",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0xF60624f6170E553EcCE171f39492B103286cF66D",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/lsqz/LSQZ-square-80x80.png",
+      "name": "LSQZ",
+      "symbol": "LSQZ",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "_comment": "",
@@ -1207,6 +1547,23 @@
     },
     {
       "_comment": "",
+      "address": "0x45b087dfBe21B804474e0240fD319d6d3085a09a",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://assets.allthingslemon.io/tokens/ltvl/LTVL-square-80x80.png",
+      "name": "LTVL",
+      "symbol": "LTVL",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "",
       "address": "0xE20E3C6447B024A3FBF22D4803de1D910ADd7776",
       "chainId": 1006,
       "decimals": 0,
@@ -1227,6 +1584,23 @@
           "address": "0xeF50C3b7A6de0d006779400e958ACa4360F14e5a"
         }
       ]
+    },
+    {
+      "_comment": "",
+      "address": "0x1F7C1720AA2257a11a6300360273119Bf8449eb8",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "name": "Lemoon USDT",
+      "symbol": "USDT",
+      "companies": [
+        "whizgrid1"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "address": "0x34c6F26b8bc88C6A8FE8119E3C0C56B63D9BcBBe",
