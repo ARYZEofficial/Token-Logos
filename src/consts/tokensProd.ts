@@ -1697,7 +1697,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x1F7C1720AA2257a11a6300360273119Bf8449eb8'}]
   },
   {
     _comment: '',
@@ -1710,7 +1711,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0x8ae5A2A4D44b1Fb3CC5ab0Ec206d62A02BA4068f'}]
   },
   //
   // 2
@@ -1726,7 +1728,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x4b0Ce02D6D47ac1a75169cE5A67166e5D5b3E00e'}]
   },
   {
     _comment: '',
@@ -1739,7 +1742,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0xe002A9e156477D3A293068269bf873899523d701'}]
   },
   //
   // 3
@@ -1755,7 +1759,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x25a924A70497628Cabbc8c0327363E3e66DAABb2'}]
   },
   {
     _comment: '',
@@ -1768,7 +1773,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0x76376132ea9Ad03036602Aae7FdBc9400494Ae06'}]
   },
   //
   // 4
@@ -1784,7 +1790,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x0269A56Abf50CF6544eb28F830758F7986E1411b'}]
   },
   {
     _comment: '',
@@ -1797,7 +1804,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0xd2FBAD1B1Ef1BC0cdd41cDF499386e86D2893c3F'}]
   },
   //
   // 5
@@ -1813,7 +1821,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x5f146a0BA10f0d5B411CFFB4CA3cA9f0F00f1221'}]
   },
   {
     _comment: '',
@@ -1826,7 +1835,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0x9F27C3FF6f75Aacb5Dae3d43bfdC82eE6F5c37d9'}]
   },
   //
   // 6
@@ -1842,7 +1852,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x2BF65d7364FE8AAa27358AE7bDCd45b9f74900aa'}]
   },
   {
     _comment: '',
@@ -1855,7 +1866,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0xACc1bC3bfeb324F5F4Db6bC683f521eeD354234b'}]
   },
   //
   // 7
@@ -1871,7 +1883,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x45b087dfBe21B804474e0240fD319d6d3085a09a'}]
   },
   {
     _comment: '',
@@ -1884,7 +1897,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0x4E150Aa09153a731D4142141fe098E6D0f1aE385'}]
   },
   //
   // 8
@@ -1900,7 +1914,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x532DA945B9CfF77A4A33C39DE2C013604d49BAad'}]
   },
   {
     _comment: '',
@@ -1913,7 +1928,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0x9893A6B9726Ca4eD8b1c6F54a153ed1870757621'}]
   },
   //
   // 9
@@ -1929,7 +1945,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0xF60624f6170E553EcCE171f39492B103286cF66D'}]
   },
   {
     _comment: '',
@@ -1942,7 +1959,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0x9245491B1c87b4CF13e96d0a1063D23D5c7056A0'}]
   },
   //
   // 10
@@ -1958,7 +1976,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x05c8BdBEAD55C687aa6384006dCB5B76bED4431E'}]
   },
   {
     _comment: '',
@@ -1971,7 +1990,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0xFd7279647A3e8F8F45284260547C1E4ab1611C4a'}]
   },
   //
   // 11
@@ -1987,7 +2007,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 1006, address: '0x7F573dBbFf70f1D28d4683Cd4a7Dd58ffFB165DE'}]
   },
   {
     _comment: '',
@@ -2000,7 +2021,8 @@ export const TOKENS: IToken[] = [
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0xB78cACb11059A86336e89293fF3AB0229153339e'}]
   }
 
   //
