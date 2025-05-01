@@ -1327,7 +1327,7 @@ export const TOKENS: IToken[] = [
     symbol: 'WPOL_Minecart',
     companies: ['aryze'],
     supportedRouterVersions: [3],
-    type: 'erc20',
+    type: 'erc20_minecart',
     isActive: true
   },
   {
@@ -1341,7 +1341,7 @@ export const TOKENS: IToken[] = [
     symbol: 'eUSD_Minecart',
     companies: ['aryze'],
     supportedRouterVersions: [3],
-    type: 'erc20',
+    type: 'erc20_minecart',
     isActive: true
   },
   {
@@ -1370,7 +1370,7 @@ export const TOKENS: IToken[] = [
     symbol: 'LEMX',
     companies: ['whizgrid'],
     supportedRouterVersions: [3],
-    type: 'erc20',
+    type: 'erc20_minecart',
     isActive: true,
     doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
   },
@@ -1384,7 +1384,7 @@ export const TOKENS: IToken[] = [
     symbol: 'LEMX',
     companies: ['whizgrid'],
     supportedRouterVersions: [3],
-    type: 'erc20',
+    type: 'erc20_minecart',
     isActive: true,
     doppelgangers: [{chainId: 1006, address: '0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2'}]
   },
@@ -1692,7 +1692,7 @@ export const TOKENS: IToken[] = [
     chainId: 56,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg',
-    name: 'Lemoon USDT',
+    name: 'Lemon USDT',
     symbol: 'USDT',
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
@@ -1705,7 +1705,7 @@ export const TOKENS: IToken[] = [
     chainId: 1006,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg',
-    name: 'Lemoon USDT',
+    name: 'Lemon USDT',
     symbol: 'USDT',
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],

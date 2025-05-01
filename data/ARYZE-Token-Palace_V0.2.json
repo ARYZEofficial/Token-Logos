@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-05-01T11:25:59.973Z",
+  "timestamp": "2025-05-01T15:02:10.392Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 107
+    "patch": 109
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -518,7 +518,7 @@
       "supportedRouterVersions": [
         3
       ],
-      "type": "erc20",
+      "type": "erc20_minecart",
       "isActive": true,
       "doppelgangers": [
         {
@@ -906,7 +906,7 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-      "name": "Lemoon USDT",
+      "name": "Lemon USDT",
       "symbol": "USDT",
       "companies": [
         "whizgrid1"
@@ -1279,7 +1279,7 @@
       "supportedRouterVersions": [
         3
       ],
-      "type": "erc20",
+      "type": "erc20_minecart",
       "isActive": true,
       "doppelgangers": [
         {
@@ -1591,7 +1591,7 @@
       "chainId": 1006,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-      "name": "Lemoon USDT",
+      "name": "Lemon USDT",
       "symbol": "USDT",
       "companies": [
         "whizgrid1"
@@ -2299,7 +2299,7 @@
       "supportedRouterVersions": [
         3
       ],
-      "type": "erc20",
+      "type": "erc20_minecart",
       "isActive": true
     },
     {
@@ -2333,7 +2333,7 @@
       "supportedRouterVersions": [
         3
       ],
-      "type": "erc20",
+      "type": "erc20_minecart",
       "isActive": true
     },
     {
