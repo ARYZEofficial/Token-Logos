@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-05-01T15:12:35.406Z",
+  "timestamp": "2025-05-02T12:20:24.547Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 111
+    "patch": 113
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -340,7 +340,7 @@
       "name": "CTFZ",
       "symbol": "CTFZ",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -480,7 +480,7 @@
       "name": "LBNK",
       "symbol": "LBNK",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -594,7 +594,7 @@
       "name": "LFLX",
       "symbol": "LFLX",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -640,7 +640,7 @@
       "name": "LLOT",
       "symbol": "LLOT",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -663,7 +663,7 @@
       "name": "LLUX",
       "symbol": "LLUX",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -709,7 +709,7 @@
       "name": "LMED",
       "symbol": "LMED",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -732,7 +732,7 @@
       "name": "LMLN",
       "symbol": "LMLN",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -778,7 +778,7 @@
       "name": "LPAY",
       "symbol": "LPAY",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -801,7 +801,7 @@
       "name": "LSQZ",
       "symbol": "LSQZ",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -847,7 +847,7 @@
       "name": "LTVL",
       "symbol": "LTVL",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -969,7 +969,7 @@
       "name": "Lemon USDT",
       "symbol": "USDT",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1128,12 +1128,14 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC Coin",
       "symbol": "USDC",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
       "type": "erc20",
-      "isActive": false
+      "isActive": true
     },
     {
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -1261,7 +1263,7 @@
       "name": "CTFZ",
       "symbol": "CTFZ",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1307,7 +1309,7 @@
       "name": "LBNK",
       "symbol": "LBNK",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1421,7 +1423,7 @@
       "name": "LFLX",
       "symbol": "LFLX",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1467,7 +1469,7 @@
       "name": "LLOT",
       "symbol": "LLOT",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1490,7 +1492,7 @@
       "name": "LLUX",
       "symbol": "LLUX",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1536,7 +1538,7 @@
       "name": "LMED",
       "symbol": "LMED",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1559,7 +1561,7 @@
       "name": "LMLN",
       "symbol": "LMLN",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1605,7 +1607,7 @@
       "name": "LPAY",
       "symbol": "LPAY",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1628,7 +1630,7 @@
       "name": "LSQZ",
       "symbol": "LSQZ",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1674,7 +1676,7 @@
       "name": "LTVL",
       "symbol": "LTVL",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -1720,7 +1722,7 @@
       "name": "Lemon USDT",
       "symbol": "USDT",
       "companies": [
-        "whizgrid1"
+        "whizgrid"
       ],
       "supportedRouterVersions": [
         3
@@ -2109,7 +2111,9 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png",
       "name": "USDC Coin",
       "symbol": "USDC",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
