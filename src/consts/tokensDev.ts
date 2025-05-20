@@ -529,5 +529,47 @@ export const TOKENS_DEV: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc721',
     isActive: true
+  },
+  {
+    _comment:
+      'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0xBAed2154A0Dad6D4a12d1ceE34a4CA4482eA5bB5',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png',
+    name: 'eUSDv3',
+    symbol: 'eUSDv3',
+    companies: ['aryze'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
+  {
+    _comment:
+      'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0x8992cf8A330036844FF975dCD4455ac8Fe5AE190',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eEUR.png',
+    name: 'eEURv3',
+    symbol: 'eEURv3',
+    companies: ['aryze'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
+  {
+    _comment:
+      'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0x8f0b2D774eb3F819eb06c4B93efF48c6678c611d',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
+    name: 'WPOL_Minecart wrapped',
+    symbol: 'WPOL_Minecart_wrapped',
+    companies: ['aryze'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
   }
 ];
