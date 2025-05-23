@@ -2,8 +2,8 @@ import {IJson} from '../interfaces/IJson';
 
 export const JSON_PROD_PARAMS: IJson = {
   name: 'ARYZE Token Palace',
-  timestamp: '2025-05-20T14:22:04.859Z',
-  version: {major: 2, minor: 0, patch: 118},
+  timestamp: '2025-05-23T09:34:09.033Z',
+  version: {major: 2, minor: 0, patch: 120},
   tags: {},
   logoURI:
     'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png',
