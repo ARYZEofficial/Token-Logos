@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-05-20T14:21:45.452Z",
+  "timestamp": "2025-05-23T09:33:25.977Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 117
+    "patch": 119
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -1301,28 +1301,6 @@
       ]
     },
     {
-      "address": "0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2",
-      "chainId": 1006,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
-      "name": "LEMX",
-      "symbol": "LEMX",
-      "companies": [
-        "whizgrid"
-      ],
-      "supportedRouterVersions": [
-        3
-      ],
-      "type": "erc20_minecart",
-      "isActive": true,
-      "doppelgangers": [
-        {
-          "chainId": 56,
-          "address": "0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41"
-        }
-      ]
-    },
-    {
       "_comment": "",
       "address": "0x62D368C156824B7918eED1Ee785658F4DBe199D7",
       "chainId": 1006,
@@ -1526,6 +1504,28 @@
         {
           "chainId": 56,
           "address": "0xd2FBAD1B1Ef1BC0cdd41cDF499386e86D2893c3F"
+        }
+      ]
+    },
+    {
+      "address": "0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2",
+      "chainId": 1006,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",
+      "name": "wLEMX",
+      "symbol": "wLEMX",
+      "companies": [
+        "whizgrid"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20_minecart",
+      "isActive": true,
+      "doppelgangers": [
+        {
+          "chainId": 56,
+          "address": "0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41"
         }
       ]
     },
