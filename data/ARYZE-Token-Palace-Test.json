@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-05-23T09:33:25.975Z",
+  "timestamp": "2025-05-23T13:49:14.239Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 97
+    "patch": 99
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -545,7 +545,7 @@
       "supportedRouterVersions": [
         3
       ],
-      "type": "erc20",
+      "type": "erc20_minecart",
       "isActive": true
     },
     {

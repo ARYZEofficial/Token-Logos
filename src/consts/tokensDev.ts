@@ -569,7 +569,7 @@ export const TOKENS_DEV: IToken[] = [
     symbol: 'WPOL_Minecart_wrapped',
     companies: ['aryze'],
     supportedRouterVersions: [3],
-    type: 'erc20',
+    type: 'erc20_minecart',
     isActive: true
   }
 ];
