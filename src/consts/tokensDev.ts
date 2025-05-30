@@ -571,5 +571,19 @@ export const TOKENS_DEV: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20_minecart',
     isActive: true
+  },
+  {
+    _comment:
+      'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+    address: '0xd194be7fc457926657ce599f69393e7435546ee3',
+    chainId: 80002,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/yen.png',
+    name: 'ARYZE JPY',
+    symbol: 'JPY',
+    companies: ['aryze'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
   }
 ];

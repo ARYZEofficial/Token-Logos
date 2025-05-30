@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-05-23T13:52:26.682Z",
+  "timestamp": "2025-05-30T10:34:20.337Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 101
+    "patch": 103
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -331,6 +331,23 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/Digital%20Cash/ARYZE%20eUSD.png",
       "name": "eUSDv3",
       "symbol": "eUSDv3",
+      "companies": [
+        "aryze"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "_comment": "test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge",
+      "address": "0xd194be7fc457926657ce599f69393e7435546ee3",
+      "chainId": 80002,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/yen.png",
+      "name": "ARYZE JPY",
+      "symbol": "JPY",
       "companies": [
         "aryze"
       ],
