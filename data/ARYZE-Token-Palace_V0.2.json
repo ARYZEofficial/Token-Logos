@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-05-30T10:34:20.339Z",
+  "timestamp": "2025-06-06T12:48:58.211Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 125
+    "patch": 127
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -1090,6 +1090,42 @@
       ],
       "type": "erc20",
       "isActive": true
+    },
+    {
+      "_comment": "",
+      "address": "0x597075bdF53029F761D51CBf443f192287BB4394",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/RYO/RYOPAY_CAD.svg",
+      "name": "RYOPAY CAD",
+      "symbol": "RYOCAD",
+      "companies": [
+        "ryopay"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true,
+      "doppelgangers": []
+    },
+    {
+      "_comment": "",
+      "address": "0x2510783D391A438A99E65FD7067AE0c8c534f2e4",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/refs/heads/main/Digital%20Cash/RYO/RYOPAY_JPY.svg",
+      "name": "RYOPAY JPY",
+      "symbol": "RYOJPY",
+      "companies": [
+        "ryopay"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true,
+      "doppelgangers": []
     },
     {
       "address": "0x44e3ae622c1570dc6e492adb8de92d01ca923d26",
