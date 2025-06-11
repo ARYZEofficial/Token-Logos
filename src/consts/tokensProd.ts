@@ -445,7 +445,7 @@ export const TOKENS: IToken[] = [
     chainId: 137,
     decimals: 6,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
-    name: 'USDC Coin',
+    name: 'USD Coin',
     symbol: 'USDC',
     companies: ['aryze'],
     supportedRouterVersions: [2],
@@ -1222,7 +1222,7 @@ export const TOKENS: IToken[] = [
     chainId: 42161,
     decimals: 6,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
-    name: 'USDC Coin',
+    name: 'USD Coin',
     symbol: 'USDC',
     companies: ['aryze'],
     supportedRouterVersions: [2],
@@ -1234,7 +1234,7 @@ export const TOKENS: IToken[] = [
     chainId: 42161,
     decimals: 6,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
-    name: 'USDC Coin',
+    name: 'USD Coin',
     symbol: 'USDC',
     companies: [],
     supportedRouterVersions: [2],
@@ -1374,7 +1374,19 @@ export const TOKENS: IToken[] = [
     isActive: true,
     doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
   },
-
+  {
+    address: '0x2574646118b5694fAAfCB9dCbfDfc1206c9B6936',
+    chainId: 1006,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
+    name: 'wLEMX',
+    symbol: 'wLEMX',
+    companies: ['whizgrid1'],
+    supportedRouterVersions: [3],
+    type: 'erc20_minecart',
+    isActive: true,
+    doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
+  },
   {
     address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41',
     chainId: 56,
@@ -1382,7 +1394,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
     name: 'LEMX',
     symbol: 'LEMX',
-    companies: ['whizgrid'],
+    companies: ['whizgrid', 'whizgrid1'],
     supportedRouterVersions: [3],
     type: 'erc20_minecart',
     isActive: true,
@@ -2060,6 +2072,18 @@ export const TOKENS: IToken[] = [
     isActive: true,
     doppelgangers: []
   },
+  {
+    address: '0x92a2d01bdBc2B89C726F5443ab8Fa272415c0434',
+    chainId: 137,
+    decimals: 6,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
+    name: 'USD Coin',
+    symbol: 'USDC',
+    companies: ['ryopay'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
   //
   //
   // BLOX
@@ -2079,5 +2103,17 @@ export const TOKENS: IToken[] = [
     type: 'erc20',
     isActive: true,
     doppelgangers: []
+  },
+  {
+    address: '0x04Cab5b5C3c92CFE0BfC55852408518A5a254e4C',
+    chainId: 1,
+    decimals: 6,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
+    name: 'USD Coin',
+    symbol: 'USDC',
+    companies: ['blox'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
   }
 ];
