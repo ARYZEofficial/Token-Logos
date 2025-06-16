@@ -2081,7 +2081,7 @@ export const TOKENS: IToken[] = [
     symbol: 'USDC',
     companies: ['ryopay'],
     supportedRouterVersions: [3],
-    type: 'erc20',
+    type: 'erc20_minecart',
     isActive: true
   },
   //
@@ -2113,7 +2113,7 @@ export const TOKENS: IToken[] = [
     symbol: 'USDC',
     companies: ['blox'],
     supportedRouterVersions: [3],
-    type: 'erc20',
+    type: 'erc20_minecart',
     isActive: true
   }
 ];
