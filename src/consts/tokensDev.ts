@@ -561,12 +561,12 @@ export const TOKENS_DEV: IToken[] = [
   {
     _comment:
       'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
-    address: '0x8f0b2D774eb3F819eb06c4B93efF48c6678c611d',
+    address: '0x7b08648EB2eD0E91c851d356759291C68fd46d95',
     chainId: 80002,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
-    name: 'WPOL_Minecart wrapped',
-    symbol: 'WPOL_Minecart_wrapped',
+    name: 'WPOL_Minecart_NT',
+    symbol: 'WPOL_Minecart_NT',
     companies: ['aryze'],
     supportedRouterVersions: [3],
     type: 'erc20_minecart',
