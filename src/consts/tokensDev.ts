@@ -561,7 +561,7 @@ export const TOKENS_DEV: IToken[] = [
   {
     _comment:
       'test ERC20 for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
-    address: '0x7b08648EB2eD0E91c851d356759291C68fd46d95',
+    address: '0x237454126F5de2D2B96393e4F7B076cbe95d887a',
     chainId: 80002,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/donut.png',
