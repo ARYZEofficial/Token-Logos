@@ -1383,7 +1383,7 @@ export const TOKENS: IToken[] = [
     symbol: 'wLEMX',
     companies: ['whizgrid1'],
     supportedRouterVersions: [3],
-    type: 'erc20_minecart',
+    type: 'erc20_nt_minecart',
     isActive: true,
     doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
   },
