@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-07-01T11:09:50.065Z",
+  "timestamp": "2025-07-01T12:58:50.802Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 138
+    "patch": 139
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -1617,7 +1617,7 @@
       ]
     },
     {
-      "address": "0x2574646118b5694fAAfCB9dCbfDfc1206c9B6936",
+      "address": "0x7712da72127d5dd213b621497d6e4899d5989e5c",
       "chainId": 1006,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png",

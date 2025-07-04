@@ -1375,7 +1375,7 @@ export const TOKENS: IToken[] = [
     doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
   },
   {
-    address: '0x2574646118b5694fAAfCB9dCbfDfc1206c9B6936',
+    address: '0x7712da72127d5dd213b621497d6e4899d5989e5c',
     chainId: 1006,
     decimals: 18,
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
