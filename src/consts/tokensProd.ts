@@ -1385,7 +1385,20 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20_nt_minecart',
     isActive: true,
-    doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
+    doppelgangers: []
+  },
+  {
+    address: '0xACbE2BF20A2E8dcC1a64A0819f2bba4e54a32307',
+    chainId: 1006,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
+    name: 'wLEMX',
+    symbol: 'wLEMX2',
+    companies: ['whizgrid1'],
+    supportedRouterVersions: [3],
+    type: 'erc20_nt_minecart',
+    isActive: true,
+    doppelgangers: []
   },
   {
     address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41',
