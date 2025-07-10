@@ -1407,7 +1407,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
     name: 'LEMX',
     symbol: 'LEMX',
-    companies: ['whizgrid', 'whizgrid1'],
+    companies: ['whizgrid', 'whizgrid-stage'],
     supportedRouterVersions: [3],
     type: 'erc20_minecart',
     isActive: true,
