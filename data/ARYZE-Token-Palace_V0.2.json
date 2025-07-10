@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-07-10T11:49:35.991Z",
+  "timestamp": "2025-07-10T11:53:45.318Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 143
+    "patch": 144
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -527,7 +527,7 @@
       "doppelgangers": [
         {
           "chainId": 1006,
-          "address": "0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2"
+          "address": "0x7712da72127d5dd213b621497d6e4899d5989e5c"
         }
       ]
     },
@@ -1419,6 +1419,7 @@
       "name": "LEMX",
       "symbol": "LEMX",
       "companies": [
+        "whizgrid",
         "whizgrid-stage"
       ],
       "supportedRouterVersions": [
@@ -1431,7 +1432,8 @@
           "chainId": 56,
           "address": "0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41"
         }
-      ]
+      ],
+      "_comment": "erc20 LEMX with embedded wrap/unwrap functionality on LemonChain"
     },
     {
       "_comment": "",
@@ -1472,7 +1474,8 @@
       ],
       "type": "erc20_nt_minecart",
       "isActive": true,
-      "doppelgangers": []
+      "doppelgangers": [],
+      "_comment": "erc20 LEMX with embedded wrap/unwrap functionality on LemonChain, test version, will be removed"
     },
     {
       "_comment": "",
@@ -1674,7 +1677,6 @@
       "name": "wLEMX",
       "symbol": "wLEMX",
       "companies": [
-        "whizgrid",
         "whizgrid-stage"
       ],
       "supportedRouterVersions": [
@@ -1687,7 +1689,8 @@
           "chainId": 56,
           "address": "0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41"
         }
-      ]
+      ],
+      "_comment": "erc20 LEMX on LemonChain"
     },
     {
       "_comment": "",

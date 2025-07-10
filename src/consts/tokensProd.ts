@@ -1368,11 +1368,12 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
     name: 'wLEMX',
     symbol: 'wLEMX',
-    companies: ['whizgrid', 'whizgrid-stage'],
+    companies: ['whizgrid-stage'],
     supportedRouterVersions: [3],
     type: 'erc20_minecart',
     isActive: true,
-    doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
+    doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}],
+    _comment: 'erc20 LEMX on LemonChain'
   },
   {
     address: '0x7712da72127d5dd213b621497d6e4899d5989e5c',
@@ -1381,11 +1382,12 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
     name: 'LEMX',
     symbol: 'LEMX',
-    companies: ['whizgrid-stage'],
+    companies: ['whizgrid', 'whizgrid-stage'],
     supportedRouterVersions: [3],
     type: 'erc20_nt_minecart',
     isActive: true,
-    doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}]
+    doppelgangers: [{chainId: 56, address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41'}],
+    _comment: 'erc20 LEMX with embedded wrap/unwrap functionality on LemonChain'
   },
   {
     address: '0xACbE2BF20A2E8dcC1a64A0819f2bba4e54a32307',
@@ -1398,7 +1400,8 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20_nt_minecart',
     isActive: true,
-    doppelgangers: []
+    doppelgangers: [],
+    _comment: 'erc20 LEMX with embedded wrap/unwrap functionality on LemonChain, test version, will be removed'
   },
   {
     address: '0x181e6476Ed41139e8Fd4b225013cE22eF9a7dC41',
@@ -1411,7 +1414,7 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20_minecart',
     isActive: true,
-    doppelgangers: [{chainId: 1006, address: '0x7d2A60c151AD570Be525a251BfAaCEEFD9eED0D2'}]
+    doppelgangers: [{chainId: 1006, address: '0x7712da72127d5dd213b621497d6e4899d5989e5c'}]
   },
   //
   // LEMON CHAIN NFTs
