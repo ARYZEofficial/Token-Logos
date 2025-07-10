@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-07-07T11:46:12.259Z",
+  "timestamp": "2025-07-10T10:04:13.977Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 141
+    "patch": 142
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -351,7 +351,8 @@
       "name": "Catfiz",
       "symbol": "CTFZ",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -468,7 +469,8 @@
       "name": "LemonBank",
       "symbol": "LBNK",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -491,7 +493,8 @@
       "name": "LemonCrate",
       "symbol": "LCRT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -537,7 +540,8 @@
       "name": "Lemon",
       "symbol": "LEMX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -560,7 +564,8 @@
       "name": "LemonFlix",
       "symbol": "LFLX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -583,7 +588,8 @@
       "name": "LemLotto",
       "symbol": "LLOT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -606,7 +612,8 @@
       "name": "LemCare",
       "symbol": "LMED",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -629,7 +636,8 @@
       "name": "LemPay",
       "symbol": "LPAY",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -652,7 +660,8 @@
       "name": "LemTravel",
       "symbol": "LTVL",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -691,7 +700,8 @@
       "name": "SwapCredit",
       "symbol": "SCDT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -788,7 +798,8 @@
       "name": "wCTFZ",
       "symbol": "wCTFZ",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -811,7 +822,8 @@
       "name": "wLBNK",
       "symbol": "wLBNK",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -834,7 +846,8 @@
       "name": "wLFLX",
       "symbol": "wLFLX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -857,7 +870,8 @@
       "name": "wLLOT",
       "symbol": "wLLOT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -880,7 +894,8 @@
       "name": "wLLUX",
       "symbol": "wLLUX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -903,7 +918,8 @@
       "name": "wLMED",
       "symbol": "wLMED",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -926,7 +942,8 @@
       "name": "wLMLN",
       "symbol": "wLMLN",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -949,7 +966,8 @@
       "name": "wLPAY",
       "symbol": "wLPAY",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -972,7 +990,8 @@
       "name": "wLSQZ",
       "symbol": "wLSQZ",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -995,7 +1014,8 @@
       "name": "wLTVL",
       "symbol": "wLTVL",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1018,7 +1038,8 @@
       "name": "Lemon USDT",
       "symbol": "wUSDT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1327,7 +1348,8 @@
       "name": "Catfiz",
       "symbol": "CTFZ",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1350,7 +1372,8 @@
       "name": "LemonBank",
       "symbol": "LBNK",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1373,7 +1396,8 @@
       "name": "LemonCrate",
       "symbol": "LCRT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1395,7 +1419,7 @@
       "name": "LEMX",
       "symbol": "LEMX",
       "companies": [
-        "whizgrid1"
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1418,7 +1442,8 @@
       "name": "Lemon",
       "symbol": "LEMX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1440,7 +1465,7 @@
       "name": "LEMX",
       "symbol": "LEMX_",
       "companies": [
-        "whizgrid1"
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1458,7 +1483,8 @@
       "name": "LemonFlix",
       "symbol": "LFLX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1481,7 +1507,8 @@
       "name": "LemLotto",
       "symbol": "LLOT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1504,7 +1531,8 @@
       "name": "LemCare",
       "symbol": "LMED",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1527,7 +1555,8 @@
       "name": "LemPay",
       "symbol": "LPAY",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1550,7 +1579,8 @@
       "name": "LemTravel",
       "symbol": "LTVL",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1573,7 +1603,8 @@
       "name": "SwapCredit",
       "symbol": "SCDT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1596,7 +1627,8 @@
       "name": "wCTFZ",
       "symbol": "wCTFZ",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1619,7 +1651,8 @@
       "name": "wLBNK",
       "symbol": "wLBNK",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1641,7 +1674,8 @@
       "name": "wLEMX",
       "symbol": "wLEMX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1664,7 +1698,8 @@
       "name": "wLFLX",
       "symbol": "wLFLX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1687,7 +1722,8 @@
       "name": "wLLOT",
       "symbol": "wLLOT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1710,7 +1746,8 @@
       "name": "wLLUX",
       "symbol": "wLLUX",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1733,7 +1770,8 @@
       "name": "wLMED",
       "symbol": "wLMED",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1756,7 +1794,8 @@
       "name": "wLMLN",
       "symbol": "wLMLN",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1779,7 +1818,8 @@
       "name": "wLPAY",
       "symbol": "wLPAY",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1802,7 +1842,8 @@
       "name": "wLSQZ",
       "symbol": "wLSQZ",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1825,7 +1866,8 @@
       "name": "wLTVL",
       "symbol": "wLTVL",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
@@ -1848,7 +1890,8 @@
       "name": "Lemon USDT",
       "symbol": "wUSDT",
       "companies": [
-        "whizgrid"
+        "whizgrid",
+        "whizgrid-stage"
       ],
       "supportedRouterVersions": [
         3
