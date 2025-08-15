@@ -8,7 +8,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg',
     name: 'Bee_USDC',
     symbol: 'BUSDC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: true
@@ -20,7 +20,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg',
     name: 'IJodi',
     symbol: 'IJodi',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -32,7 +32,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg',
     name: 'IDima',
     symbol: 'IDima',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -44,7 +44,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg',
     name: 'IIvan',
     symbol: 'IIvan',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -56,7 +56,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg',
     name: 'ManuelRYZESale',
     symbol: 'MRS',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -68,7 +68,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg',
     name: 'ManualRYZESale',
     symbol: 'MRS',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -80,7 +80,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://cdn.iconscout.com/icon/premium/png-256-thumb/honey-bee-4008977-3315757.png',
     name: 'BeeHoney',
     symbol: 'BHST',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -212,7 +212,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png',
     name: 'WMATIC',
     symbol: 'WMATIC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -356,7 +356,7 @@ export const TOKENS_DEV: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg',
     name: 'USD Coin',
     symbol: 'USDC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: true
@@ -411,55 +411,6 @@ export const TOKENS_DEV: IToken[] = [
     type: 'erc20',
     isActive: true
   },
-
-  {
-    address: '0x0000000000000000000000000000000000000000',
-    chainId: 80002,
-    decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
-    name: 'LEMX',
-    symbol: 'LEMX',
-    companies: [],
-    supportedRouterVersions: [3],
-    type: 'erc20',
-    isActive: true
-  },
-  // {
-  //   address: '0x0000000000000000000000000000000000000000',
-  //   chainId: 137,
-  //   decimals: 18,
-  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png',
-  //   name: 'POL',
-  //   symbol: 'POL',
-  //   companies: [],
-  //   supportedRouterVersions: [3],
-  //   type: 'erc20',
-  //   isActive: true
-  // },
-  // {
-  //   address: '0x0000000000000000000000000000000000000000',
-  //   chainId: 1006,
-  //   decimals: 18,
-  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/lemonchain.png',
-  //   name: 'LEMX',
-  //   symbol: 'LEMX',
-  //   companies: [],
-  //   supportedRouterVersions: [3],
-  //   type: 'erc20',
-  //   isActive: true
-  // },
-  // {
-  //   address: '0x0000000000000000000000000000000000000000',
-  //   chainId: 56,
-  //   decimals: 18,
-  //   logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/bnb.png',
-  //   name: 'BNB',
-  //   symbol: 'BNB',
-  //   companies: [],
-  //   supportedRouterVersions: [3],
-  //   type: 'erc20',
-  //   isActive: true
-  // },
   {
     _comment:
       'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',

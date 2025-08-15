@@ -82,7 +82,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg',
     name: 'USD Coin',
     symbol: 'USDC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -94,7 +94,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg',
     name: 'Tether USD',
     symbol: 'USDT',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -106,7 +106,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg',
     name: 'Wrapped Bitcoin',
     symbol: 'WBTC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -118,7 +118,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg',
     name: 'Wrapped Ether',
     symbol: 'WETH',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -130,7 +130,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg',
     name: 'Dai Stablecoin',
     symbol: 'DAI',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -263,7 +263,7 @@ export const TOKENS: IToken[] = [
       'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg',
     name: 'Binance-Peg USD Coin',
     symbol: 'USDC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -276,7 +276,7 @@ export const TOKENS: IToken[] = [
       'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg',
     name: 'Tether USD',
     symbol: 'USDT',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -289,7 +289,7 @@ export const TOKENS: IToken[] = [
       'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg',
     name: 'Dai Token',
     symbol: 'DAI',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -302,7 +302,7 @@ export const TOKENS: IToken[] = [
       'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg',
     name: 'BTCB Token',
     symbol: 'BTCB',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -327,7 +327,7 @@ export const TOKENS: IToken[] = [
       'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg',
     name: 'Wrapped BNB',
     symbol: 'WBNB',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -339,7 +339,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png',
     name: 'USDT Token',
     symbol: 'USDT',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -411,7 +411,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg',
     name: 'USD Coin',
     symbol: 'USDC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: true
@@ -423,7 +423,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png',
     name: 'WMATIC',
     symbol: 'WMATIC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -507,7 +507,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
     name: 'USDC.e',
     symbol: 'USDC.e',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -591,7 +591,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
     name: 'Axelar USDC',
     symbol: 'axlUSDC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: false
@@ -1236,7 +1236,7 @@ export const TOKENS: IToken[] = [
     logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/usd-coin-usdc-logo.png',
     name: 'USD Coin',
     symbol: 'USDC',
-    companies: [],
+    companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
     isActive: true
@@ -1843,7 +1843,7 @@ export const TOKENS: IToken[] = [
     _comment: '',
     address: '0x9F27C3FF6f75Aacb5Dae3d43bfdC82eE6F5c37d9',
     chainId: 56,
-    decimals: 0,
+    decimals: 18,
     logoURI: 'https://assets.allthingslemon.io/tokens/llot/LLOT-square-80x80.png',
     name: 'wLLOT',
     symbol: 'wLLOT',
@@ -1857,7 +1857,7 @@ export const TOKENS: IToken[] = [
     _comment: '',
     address: '0x5f146a0BA10f0d5B411CFFB4CA3cA9f0F00f1221',
     chainId: 1006,
-    decimals: 0,
+    decimals: 18,
     logoURI: 'https://assets.allthingslemon.io/tokens/llot/LLOT-square-80x80.png',
     name: 'wLLOT',
     symbol: 'wLLOT',

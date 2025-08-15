@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-07-10T11:53:45.317Z",
+  "timestamp": "2025-08-15T09:30:27.007Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 122
+    "patch": 125
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -23,7 +23,9 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
       "name": "ManuelRYZESale",
       "symbol": "MRS",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
@@ -37,7 +39,9 @@
       "logoURI": "https://cdn.iconscout.com/icon/premium/png-256-thumb/honey-bee-4008977-3315757.png",
       "name": "BeeHoney",
       "symbol": "BHST",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
@@ -51,7 +55,9 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
       "name": "Bee_USDC",
       "symbol": "BUSDC",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
@@ -177,7 +183,9 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
       "name": "IDima",
       "symbol": "IDima",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
@@ -191,7 +199,9 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
       "name": "IIvan",
       "symbol": "IIvan",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
@@ -205,7 +215,9 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/flower_logo.jpg",
       "name": "IJodi",
       "symbol": "IJodi",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
@@ -219,7 +231,9 @@
       "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/ryze-logo-blue.svg",
       "name": "ManualRYZESale",
       "symbol": "MRS",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
@@ -233,7 +247,9 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
       "name": "WMATIC",
       "symbol": "WMATIC",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
@@ -351,20 +367,6 @@
       "companies": [
         "aryze"
       ],
-      "supportedRouterVersions": [
-        3
-      ],
-      "type": "erc20",
-      "isActive": true
-    },
-    {
-      "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 80002,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/rpc-proxy/refs/heads/main/networks/polygon.png",
-      "name": "LEMX",
-      "symbol": "LEMX",
-      "companies": [],
       "supportedRouterVersions": [
         3
       ],
@@ -508,7 +510,9 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
       "name": "USD Coin",
       "symbol": "USDC",
-      "companies": [],
+      "companies": [
+        "aryze"
+      ],
       "supportedRouterVersions": [
         2
       ],
