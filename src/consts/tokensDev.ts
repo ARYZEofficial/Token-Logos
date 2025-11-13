@@ -413,7 +413,7 @@ export const TOKENS_DEV: IToken[] = [
   },
   {
     _comment:
-      'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge',
+      'test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge 1',
     address: '0x2C1e65514546DDcAab41f6125281380F34692ADb',
     chainId: 80002,
     decimals: 0,

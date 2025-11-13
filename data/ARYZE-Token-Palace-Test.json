@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace Test",
-  "timestamp": "2025-08-15T09:30:27.007Z",
+  "timestamp": "2025-08-15T09:30:44.127Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 125
+    "patch": 126
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -390,7 +390,7 @@
       "isActive": true
     },
     {
-      "_comment": "test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge",
+      "_comment": "test NFT for devops, maybe will be removed. supportedRouterVersions shows which router versions can execute reforge 1",
       "address": "0x2C1e65514546DDcAab41f6125281380F34692ADb",
       "chainId": 80002,
       "decimals": 0,
