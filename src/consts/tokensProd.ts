@@ -2139,7 +2139,7 @@ export const TOKENS: IToken[] = [
     address: '0x617056D3A36d2D94e956d906EC2405f45BF002a2',
     chainId: 56,
     decimals: 18,
-    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR.png',
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR_flag.png',
     name: 'ARYZE eEUR',
     symbol: 'eEUR',
     companies: ['aryze-v3'],

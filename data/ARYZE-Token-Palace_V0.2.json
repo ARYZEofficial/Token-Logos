@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2026-01-09T10:40:33.520Z",
+  "timestamp": "2026-01-09T10:47:09.261Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 150
+    "patch": 151
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -430,7 +430,7 @@
       "address": "0x617056D3A36d2D94e956d906EC2405f45BF002a2",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR.png",
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR_flag.png",
       "name": "ARYZE eEUR",
       "symbol": "eEUR",
       "companies": [
