@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2025-08-15T09:30:44.129Z",
+  "timestamp": "2025-11-13T14:57:54.879Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 148
+    "patch": 149
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -395,6 +395,22 @@
       "isActive": false
     },
     {
+      "address": "0xbd96aC9B35eBa2F33CbBec35AA337281909E2733",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eDKK.png",
+      "name": "ARYZE eDKK",
+      "symbol": "eDKK",
+      "companies": [
+        "aryze-v3"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
       "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
       "chainId": 56,
       "decimals": 18,
@@ -406,6 +422,22 @@
       ],
       "supportedRouterVersions": [
         2
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "address": "0x617056D3A36d2D94e956d906EC2405f45BF002a2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR.png",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR",
+      "companies": [
+        "aryze-v3"
+      ],
+      "supportedRouterVersions": [
+        3
       ],
       "type": "erc20",
       "isActive": true
@@ -438,6 +470,38 @@
       ],
       "supportedRouterVersions": [
         2
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "address": "0xB42047C9DC1D9228DE96aF51C9d23B4632b7d807",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eNOK.png",
+      "name": "ARYZE eNOK",
+      "symbol": "eNOK",
+      "companies": [
+        "aryze-v3"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
+      "address": "0x5D42f4D9B6898427db7EACf3b3AA6285123F95D4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eSEK.png",
+      "name": "ARYZE eSEK",
+      "symbol": "eSEK",
+      "companies": [
+        "aryze-v3"
+      ],
+      "supportedRouterVersions": [
+        3
       ],
       "type": "erc20",
       "isActive": true

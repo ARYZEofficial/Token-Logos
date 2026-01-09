@@ -2131,5 +2131,56 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20_minecart',
     isActive: true
+  },
+  //
+  // Aryze v3 tokens
+  //
+  {
+    address: '0x617056D3A36d2D94e956d906EC2405f45BF002a2',
+    chainId: 56,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR.png',
+    name: 'ARYZE eEUR',
+    symbol: 'eEUR',
+    companies: ['aryze-v3'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
+  {
+    address: '0xbd96aC9B35eBa2F33CbBec35AA337281909E2733',
+    chainId: 56,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eDKK.png',
+    name: 'ARYZE eDKK',
+    symbol: 'eDKK',
+    companies: ['aryze-v3'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
+  {
+    address: '0xB42047C9DC1D9228DE96aF51C9d23B4632b7d807',
+    chainId: 56,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eNOK.png',
+    name: 'ARYZE eNOK',
+    symbol: 'eNOK',
+    companies: ['aryze-v3'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
+  {
+    address: '0x5D42f4D9B6898427db7EACf3b3AA6285123F95D4',
+    chainId: 56,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eSEK.png',
+    name: 'ARYZE eSEK',
+    symbol: 'eSEK',
+    companies: ['aryze-v3'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
   }
 ];
