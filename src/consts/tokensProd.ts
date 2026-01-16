@@ -414,7 +414,7 @@ export const TOKENS: IToken[] = [
     companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270',
@@ -450,7 +450,7 @@ export const TOKENS: IToken[] = [
     companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x6681E81647D64ee2c71c2804D327a9b20b436318',
@@ -1227,7 +1227,7 @@ export const TOKENS: IToken[] = [
     companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0xaf88d065e77c8cc2239327c5edb3a432268e5831',
@@ -1239,7 +1239,7 @@ export const TOKENS: IToken[] = [
     companies: ['aryze'],
     supportedRouterVersions: [2],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   // {
   //   address: '0x27f9AA6514AbE41c2FAD54e5d3dFF321fCbE50B6',
