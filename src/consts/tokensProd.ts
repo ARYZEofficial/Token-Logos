@@ -71,7 +71,7 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2],
+    supportedRouterVersions: [2, 3],
     type: 'erc20',
     isActive: true
   },
@@ -251,7 +251,7 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2],
+    supportedRouterVersions: [2, 3],
     type: 'erc20',
     isActive: true
   },
@@ -352,7 +352,7 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2],
+    supportedRouterVersions: [2, 3],
     type: 'erc20',
     isActive: true
   },
@@ -1086,7 +1086,7 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2],
+    supportedRouterVersions: [2, 3],
     type: 'erc20',
     isActive: true
   },
@@ -1098,7 +1098,7 @@ export const TOKENS: IToken[] = [
     name: 'aryze',
     symbol: 'RYZE',
     companies: ['aryze'],
-    supportedRouterVersions: [2],
+    supportedRouterVersions: [2, 3],
     type: 'erc20',
     isActive: true
   },
