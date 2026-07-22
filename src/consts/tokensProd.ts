@@ -2194,7 +2194,7 @@ export const TOKENS: IToken[] = [
     companies: ['aryze-demo'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0x0583ddcb1c93ca8a32142eae57e3860b4782e95b',
@@ -2206,7 +2206,7 @@ export const TOKENS: IToken[] = [
     companies: ['aryze-demo'],
     supportedRouterVersions: [3],
     type: 'erc20',
-    isActive: true
+    isActive: false
   },
   {
     address: '0xb1f7b381e41ac434528dc319a4f002bd996a6347',
