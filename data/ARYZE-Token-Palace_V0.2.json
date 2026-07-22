@@ -1,10 +1,10 @@
 {
   "name": "ARYZE Token Palace",
-  "timestamp": "2026-03-19T09:05:23.544Z",
+  "timestamp": "2026-07-22T09:53:08.382Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 157
+    "patch": 159
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/MAMA-logo.png",
@@ -276,6 +276,22 @@
       "isActive": false
     },
     {
+      "address": "0x0583ddcb1c93ca8a32142eae57e3860b4782e95b",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR.png",
+      "name": "Aryze Demo Digital Euro",
+      "symbol": "eEUR",
+      "companies": [
+        "aryze-demo"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
       "address": "0x4482a6D2A1c950f1C88191a4cbFd0B83a22D7cff",
       "chainId": 10,
       "decimals": 18,
@@ -338,6 +354,22 @@
       ],
       "type": "erc20",
       "isActive": false
+    },
+    {
+      "address": "0xb1f7b381e41ac434528dc319a4f002bd996a6347",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eUSD.png",
+      "name": "Aryze Demo Digital Dollar",
+      "symbol": "eUSD",
+      "companies": [
+        "aryze-demo"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
@@ -1172,6 +1204,22 @@
       "isActive": false
     },
     {
+      "address": "0x0583ddcb1c93ca8a32142eae57e3860b4782e95b",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR.png",
+      "name": "Aryze Demo Digital Euro",
+      "symbol": "eEUR",
+      "companies": [
+        "aryze-demo"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
+    },
+    {
       "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
       "chainId": 137,
       "decimals": 18,
@@ -1234,6 +1282,22 @@
       ],
       "type": "erc20",
       "isActive": false
+    },
+    {
+      "address": "0xb1f7b381e41ac434528dc319a4f002bd996a6347",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eUSD.png",
+      "name": "Aryze Demo Digital Dollar",
+      "symbol": "eUSD",
+      "companies": [
+        "aryze-demo"
+      ],
+      "supportedRouterVersions": [
+        3
+      ],
+      "type": "erc20",
+      "isActive": true
     },
     {
       "_comment": "",

@@ -2182,5 +2182,54 @@ export const TOKENS: IToken[] = [
     supportedRouterVersions: [3],
     type: 'erc20',
     isActive: false
+  },
+  //DEMO
+  {
+    address: '0xb1f7b381e41ac434528dc319a4f002bd996a6347',
+    chainId: 10,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eUSD.png',
+    name: 'Aryze Demo Digital Dollar',
+    symbol: 'eUSD',
+    companies: ['aryze-demo'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
+  {
+    address: '0x0583ddcb1c93ca8a32142eae57e3860b4782e95b',
+    chainId: 10,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR.png',
+    name: 'Aryze Demo Digital Euro',
+    symbol: 'eEUR',
+    companies: ['aryze-demo'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
+  {
+    address: '0xb1f7b381e41ac434528dc319a4f002bd996a6347',
+    chainId: 137,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eUSD.png',
+    name: 'Aryze Demo Digital Dollar',
+    symbol: 'eUSD',
+    companies: ['aryze-demo'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
+  },
+  {
+    address: '0x0583ddcb1c93ca8a32142eae57e3860b4782e95b',
+    chainId: 137,
+    decimals: 18,
+    logoURI: 'https://raw.githubusercontent.com/ARYZEofficial/Token-Logos/main/DigitalCash/new_logos/eEUR.png',
+    name: 'Aryze Demo Digital Euro',
+    symbol: 'eEUR',
+    companies: ['aryze-demo'],
+    supportedRouterVersions: [3],
+    type: 'erc20',
+    isActive: true
   }
 ];
